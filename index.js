@@ -14,7 +14,7 @@ app.get("/", (req, res) => {
 
 
 app.get("/hez", (req, res) => {
-  res.send("Xush kelibsiz! Bu Hez sahifasi 👋");
+  res.send("Xush kelibsiz! Bu Hez sahifasi");
 });
 
 app.use("/grades", gradeRoutes);

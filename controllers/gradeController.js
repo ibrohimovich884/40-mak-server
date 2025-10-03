@@ -6,7 +6,7 @@ const dataDir = path.join(process.cwd(), "data");
 
 // Controller: sinf faylini olish
 export const getGradeData = (req, res) => {
-  const grade = req.params.grade;
+  const grade = req.params.grade.toLowerCase(); // masalan: 8a
   const filePath = path.join(dataDir, `Grade${grade.toUpperCase()}.json`);
 
   // Fayl mavjudligini tekshirish
