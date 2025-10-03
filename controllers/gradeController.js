@@ -1,16 +1,23 @@
 import fs from "fs";
 import path from "path";
+import { fileURLToPath } from "url";
 
-// data papkani olish
-const dataDir = path.join(process.cwd(), "data");
+// __dirname o‘rniga kerakli narsa
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
+
+// data papkani olish (server bilan bir joyda bo‘lishi kerak)
+const dataDir = path.join(__dirname, "../data");
 
 // Controller: sinf faylini olish
 export const getGradeData = (req, res) => {
-  const grade = req.params.grade.toLowerCase(); // masalan: 8a
-  const filePath = path.join(dataDir, `Grade${grade}.json`);
+  const grade = req.params.grade.toLowerCase(); // masalan: 7a
+  const fileName = `Grade${grade.charAt(0).toUpperCase()}${grade.slice(1)}.json`;
+  const filePath = path.join(dataDir, fileName);
 
+  // Fayl mavjudligini tekshirish
   if (!fs.existsSync(filePath)) {
-    return res.status(404).json({ error: "❌ Bunday sinf topilmadi" });
+    return res.status(404).json({ error: `❌ ${fileName} topilmadi` });
   }
 
   try {
