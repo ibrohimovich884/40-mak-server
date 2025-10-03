@@ -1,10 +1,12 @@
 import express from "express";
 import gradeRoutes from "./routes/gradeRoutes.js";
+import cors from "cors";
 
 const app = express();
 const PORT = 5000;
 
 app.use(express.json());
+app.use(cors());
 
 app.use("/grades", gradeRoutes);
 
