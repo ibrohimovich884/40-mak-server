@@ -1,5 +1,7 @@
 import express from "express";
 import gradeRoutes from "./routes/gradeRoutes.js";
+import clickerRoutes from "./routes/clickerRoutes.js";
+import logs from "./routes/logs.js";
 import cors from "cors";
 
 const app = express();
@@ -17,12 +19,10 @@ app.get("/hez", (req, res) => {
   res.send("Xush kelibsiz! Bu Hez sahifasi");
 });
 
-app.get("/api/bonus-clicks", (req, res) => {
-  res.json({ required: 10 });
-});
-
-
 app.use("/grades", gradeRoutes);
+app.use("/clicker", clickerRoutes);
+app.use("/logs", logs);
+
 
 app.listen(PORT, () => {
   console.log(`Server ishga tushdi: http://localhost:${PORT}`);
