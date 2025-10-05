@@ -17,6 +17,11 @@ app.get("/hez", (req, res) => {
   res.send("Xush kelibsiz! Bu Hez sahifasi");
 });
 
+app.get("/api/bonus-clicks", (req, res) => {
+  res.json({ required: 10 });
+});
+
+
 app.use("/grades", gradeRoutes);
 
 app.listen(PORT, () => {
