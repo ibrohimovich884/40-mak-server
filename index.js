@@ -15,9 +15,36 @@ app.get("/", (req, res) => {
 });
 
 
-app.get("/hez", (req, res) => {
-  res.send("Xush kelibsiz! Bu Hez sahifasi");
+app.get("/health", async (req, res) => {
+  const healthData = {
+    status: "ok",
+    message: "Xush kelibsiz! Bu Health sahifasi",
+    timestamp: new Date().toISOString(),
+    uptime: process.uptime(),
+  };
+
+  res.json(healthData);
+
+  try {
+    await fetch("https://auto-server-hvk3.onrender.com/notify", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({
+        message: "Health endpoint ishga tushdi!",
+        time: new Date().toISOString(),
+      }),
+    });
+    console.log("[Health] Auto-serverga signal yuborildi ✅");
+  } catch (err) {
+    console.error("[Health] Auto-serverga signal yuborishda xatolik:", err.message);
+  }
 });
+
+app.post("/notify", (req, res) => {
+  console.log("📩 Signal qabul qilindi:", req.body);
+  res.json({ status: "ok", received: true });
+});
+
 
 app.use("/grades", gradeRoutes);
 app.use("/clicker", clickerRoutes);
