@@ -31,8 +31,8 @@ router.get("/", (req, res) => {
     const logs = devices.map((device) => ({
       ip: device.ip || "IP topilmadi",
       model: device.model || "Model noma'lum",
-      image: device.image || "no-image.png",
-      connectedAt: device.connectedAt || "Vaqt ko‘rsatilmagan",
+      image: device.url || "no-image.png",
+      connectedAt: device.date || "Vaqt ko‘rsatilmagan",
       count: device.count || 0, // count ham ko‘rsatamiz
     }));
 

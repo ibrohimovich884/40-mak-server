@@ -49,7 +49,6 @@ app.use(
             method,
             url,
             status: Number(status),
-            ip,
             user,
             userAgent,
             date,
