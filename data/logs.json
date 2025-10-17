@@ -1,24 +1,3 @@
 [
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/clicker",
-    "status": 304,
-    "ip": "::1",
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36",
-    "date": "Fri, 17 Oct 2025 07:42:22 GMT",
-    "time": "2025-10-17T07:42:22.424Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/clicker",
-    "status": 304,
-    "ip": "::1",
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36",
-    "date": "Fri, 17 Oct 2025 07:48:25 GMT",
-    "time": "2025-10-17T07:48:25.718Z"
-  }
+
 ]
