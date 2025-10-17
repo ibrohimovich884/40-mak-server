@@ -110,7 +110,7 @@ app.post("/notify", (req, res) => {
 
 app.use("/grades", gradeRoutes);
 app.use("/clicker", clickerRoutes);
-// app.use("/logs", logs);
+app.use("/logs", logs);
 
 
 app.listen(PORT, () => {
