@@ -29,11 +29,11 @@ router.get("/", (req, res) => {
     const devices = readLogs();
 
     const logs = devices.map((device) => ({
-      ip: device.ip || "IP topilmadi",
       model: device.model || "Model noma'lum",
-      image: device.url || "no-image.png",
+      url: device.url || "URL noma'lum",
       connectedAt: device.date || "Vaqt ko‘rsatilmagan",
-      count: device.count || 0, // count ham ko‘rsatamiz
+      userAgent: device.userAgent || "User agent ko‘rsatilmagan",
+      count: device.status || 404, // count ham ko‘rsatamiz
     }));
 
     res.status(200).json({

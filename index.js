@@ -95,7 +95,7 @@ app.get("/health", async (req, res) => {
         time: new Date().toISOString(),
       }),
     });
-    console.log("[Health] Auto-serverga signal yuborildi ✅");
+    console.log("[Health] Auto-serverga signal yuborildi");
   } catch (err) {
     console.error("[Health] Auto-serverga signal yuborishda xatolik:", err.message);
   }
