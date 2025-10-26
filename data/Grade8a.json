@@ -34,7 +34,7 @@
             "Full name": "Nabijonova Nafisa Aziz qizi",
             "Name": "Nafisa",
             "Grade": "8a",
-            "Image": "",
+            "Image": "/students/grade8a/nafisa.jpg",
             "Gender": "Female",
             "Birthday": "2011-11-18",
             "Instagram": "nafise.off.1",
@@ -48,6 +48,16 @@
             "Gender": "Female",
             "Birthday": "2011-08-18",
             "Instagram": "Unknown",
+            "Talked": "Unknown"
+        },
+        {
+            "Full name": "Omonova Shodiya Oybek qizi",
+            "Name": "Shodiya",
+            "Grade": "8a",
+            "Image": "/students/grade8a/shodiya.jpg",
+            "Gender": "Female",
+            "Birthday": "Unknown",
+            "Instagram": "oybekvna.011",
             "Talked": "Unknown"
         },
         {
