@@ -1,2062 +1,282 @@
 [
   {
     "type": "request",
-    "method": "GET",
-    "url": "/clicker",
-    "status": 304,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36",
-    "date": "Sat, 18 Oct 2025 19:12:14 GMT",
-    "time": "2025-10-18T19:12:14.147Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades8a",
+    "method": "POST",
+    "url": "/hide",
     "status": 404,
     "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36",
-    "date": "Sun, 26 Oct 2025 08:23:49 GMT",
-    "time": "2025-10-26T08:23:49.820Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades8b",
-    "status": 404,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36",
-    "date": "Sun, 26 Oct 2025 08:24:16 GMT",
-    "time": "2025-10-26T08:24:16.067Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades8a",
-    "status": 404,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36",
-    "date": "Sun, 26 Oct 2025 08:24:27 GMT",
-    "time": "2025-10-26T08:24:27.810Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/favicon.ico",
-    "status": 404,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36",
-    "date": "Sun, 26 Oct 2025 08:24:28 GMT",
-    "time": "2025-10-26T08:24:28.043Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/",
-    "status": 200,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36",
-    "date": "Sun, 26 Oct 2025 08:24:43 GMT",
-    "time": "2025-10-26T08:24:43.220Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/8a",
-    "status": 200,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36",
-    "date": "Sun, 26 Oct 2025 08:24:50 GMT",
-    "time": "2025-10-26T08:24:50.300Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades8a",
-    "status": 404,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36",
-    "date": "Sun, 26 Oct 2025 08:24:57 GMT",
-    "time": "2025-10-26T08:24:57.650Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/8a",
-    "status": 304,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36",
-    "date": "Sun, 26 Oct 2025 08:25:13 GMT",
-    "time": "2025-10-26T08:25:13.687Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades7b",
-    "status": 404,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36",
-    "date": "Sun, 26 Oct 2025 08:26:30 GMT",
-    "time": "2025-10-26T08:26:30.210Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/7b",
-    "status": 200,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36",
-    "date": "Sun, 26 Oct 2025 08:26:48 GMT",
-    "time": "2025-10-26T08:26:48.451Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/8b",
-    "status": 200,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36",
-    "date": "Sun, 26 Oct 2025 08:27:45 GMT",
-    "time": "2025-10-26T08:27:45.066Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/7a",
-    "status": 200,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36",
-    "date": "Sun, 26 Oct 2025 08:28:13 GMT",
-    "time": "2025-10-26T08:28:13.593Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/7b",
-    "status": 304,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36",
-    "date": "Sun, 26 Oct 2025 08:31:00 GMT",
-    "time": "2025-10-26T08:31:00.930Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/7b",
-    "status": 304,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36",
-    "date": "Sun, 26 Oct 2025 08:33:47 GMT",
-    "time": "2025-10-26T08:33:47.777Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/7b",
-    "status": 304,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36",
-    "date": "Sun, 26 Oct 2025 08:35:18 GMT",
-    "time": "2025-10-26T08:35:18.330Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/7b",
-    "status": 304,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36",
-    "date": "Sun, 26 Oct 2025 08:36:12 GMT",
-    "time": "2025-10-26T08:36:12.828Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/7b",
-    "status": 304,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36",
-    "date": "Sun, 26 Oct 2025 08:37:25 GMT",
-    "time": "2025-10-26T08:37:25.065Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/9a",
-    "status": 200,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36",
-    "date": "Sun, 26 Oct 2025 08:40:31 GMT",
-    "time": "2025-10-26T08:40:31.140Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/8b",
-    "status": 200,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36",
-    "date": "Sun, 26 Oct 2025 08:40:39 GMT",
-    "time": "2025-10-26T08:40:39.970Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/8b",
-    "status": 304,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36",
-    "date": "Sun, 26 Oct 2025 08:41:02 GMT",
-    "time": "2025-10-26T08:41:02.498Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/8b",
-    "status": 304,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36",
-    "date": "Sun, 26 Oct 2025 08:41:37 GMT",
-    "time": "2025-10-26T08:41:37.342Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/9a",
-    "status": 304,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36",
-    "date": "Sun, 26 Oct 2025 08:42:34 GMT",
-    "time": "2025-10-26T08:42:34.378Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/8b",
-    "status": 304,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36",
-    "date": "Sun, 26 Oct 2025 08:42:41 GMT",
-    "time": "2025-10-26T08:42:41.067Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/",
-    "status": 200,
-    "user": "Anonim",
-    "userAgent": "Avast Antivirus",
-    "date": "Sun, 26 Oct 2025 10:48:14 GMT",
-    "time": "2025-10-26T10:48:14.906Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/",
-    "status": 200,
-    "user": "Anonim",
-    "userAgent": "-",
-    "date": "Sun, 26 Oct 2025 10:48:21 GMT",
-    "time": "2025-10-26T10:48:21.134Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/loginMsg.js",
-    "status": 404,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko",
-    "date": "Sun, 26 Oct 2025 10:48:21 GMT",
-    "time": "2025-10-26T10:48:21.138Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/cgi/get.cgi?cmd=home_login",
-    "status": 404,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko",
-    "date": "Sun, 26 Oct 2025 10:48:21 GMT",
-    "time": "2025-10-26T10:48:21.141Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/7b",
-    "status": 304,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36",
-    "date": "Sun, 26 Oct 2025 11:11:04 GMT",
-    "time": "2025-10-26T11:11:04.740Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/8b",
-    "status": 304,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36",
-    "date": "Sun, 26 Oct 2025 11:11:12 GMT",
-    "time": "2025-10-26T11:11:12.498Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/8b",
-    "status": 304,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36",
-    "date": "Sun, 26 Oct 2025 11:14:09 GMT",
-    "time": "2025-10-26T11:14:09.721Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/8b",
-    "status": 304,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36",
-    "date": "Sun, 26 Oct 2025 11:16:25 GMT",
-    "time": "2025-10-26T11:16:25.637Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/9b",
-    "status": 200,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36",
-    "date": "Sun, 26 Oct 2025 11:20:44 GMT",
-    "time": "2025-10-26T11:20:44.901Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/9b",
-    "status": 304,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36",
-    "date": "Sun, 26 Oct 2025 11:20:58 GMT",
-    "time": "2025-10-26T11:20:58.415Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/8b",
-    "status": 304,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36",
-    "date": "Sun, 26 Oct 2025 11:21:08 GMT",
-    "time": "2025-10-26T11:21:08.031Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/9b",
-    "status": 200,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36",
-    "date": "Sun, 26 Oct 2025 11:21:50 GMT",
-    "time": "2025-10-26T11:21:50.626Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/9b",
-    "status": 304,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36",
-    "date": "Sun, 26 Oct 2025 11:23:52 GMT",
-    "time": "2025-10-26T11:23:52.896Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/8b",
-    "status": 304,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36",
-    "date": "Sun, 26 Oct 2025 11:24:02 GMT",
-    "time": "2025-10-26T11:24:02.797Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/9b",
-    "status": 200,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36",
-    "date": "Sun, 26 Oct 2025 11:25:23 GMT",
-    "time": "2025-10-26T11:25:23.957Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/9b",
-    "status": 304,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36",
-    "date": "Sun, 26 Oct 2025 11:25:33 GMT",
-    "time": "2025-10-26T11:25:33.292Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/9b",
-    "status": 304,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36",
-    "date": "Sun, 26 Oct 2025 11:27:02 GMT",
-    "time": "2025-10-26T11:27:02.174Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/7b",
-    "status": 304,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36",
-    "date": "Sun, 26 Oct 2025 11:27:59 GMT",
-    "time": "2025-10-26T11:27:59.912Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/9b",
-    "status": 304,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36",
-    "date": "Sun, 26 Oct 2025 11:28:51 GMT",
-    "time": "2025-10-26T11:28:51.614Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/8b",
-    "status": 304,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36",
-    "date": "Sun, 26 Oct 2025 11:30:48 GMT",
-    "time": "2025-10-26T11:30:48.240Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/9b",
-    "status": 200,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36",
-    "date": "Sun, 26 Oct 2025 11:30:54 GMT",
-    "time": "2025-10-26T11:30:54.966Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/9b",
-    "status": 200,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36",
-    "date": "Sun, 26 Oct 2025 11:36:30 GMT",
-    "time": "2025-10-26T11:36:30.120Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/8a",
-    "status": 200,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36",
-    "date": "Sun, 26 Oct 2025 11:36:39 GMT",
-    "time": "2025-10-26T11:36:39.745Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/8a",
-    "status": 304,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36",
-    "date": "Sun, 26 Oct 2025 11:38:42 GMT",
-    "time": "2025-10-26T11:38:42.822Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/8a",
-    "status": 304,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36",
-    "date": "Sun, 26 Oct 2025 11:38:46 GMT",
-    "time": "2025-10-26T11:38:46.808Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/9b",
-    "status": 304,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36",
-    "date": "Sun, 26 Oct 2025 11:44:51 GMT",
-    "time": "2025-10-26T11:44:51.272Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/9b",
-    "status": 200,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36",
-    "date": "Sun, 26 Oct 2025 11:46:38 GMT",
-    "time": "2025-10-26T11:46:38.040Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/9b",
-    "status": 304,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36",
-    "date": "Sun, 26 Oct 2025 11:47:24 GMT",
-    "time": "2025-10-26T11:47:24.708Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/8a",
-    "status": 304,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36",
-    "date": "Sun, 26 Oct 2025 11:48:19 GMT",
-    "time": "2025-10-26T11:48:19.574Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/9b",
-    "status": 200,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36",
-    "date": "Sun, 26 Oct 2025 12:00:19 GMT",
-    "time": "2025-10-26T12:00:19.595Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/8a",
-    "status": 200,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36",
-    "date": "Sun, 26 Oct 2025 12:00:24 GMT",
-    "time": "2025-10-26T12:00:24.932Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/8a",
-    "status": 304,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36",
-    "date": "Sun, 26 Oct 2025 12:00:38 GMT",
-    "time": "2025-10-26T12:00:38.666Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/8a",
-    "status": 200,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36",
-    "date": "Sun, 26 Oct 2025 12:01:03 GMT",
-    "time": "2025-10-26T12:01:03.265Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/8a",
-    "status": 304,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36",
-    "date": "Sun, 26 Oct 2025 12:01:22 GMT",
-    "time": "2025-10-26T12:01:22.590Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/9b",
-    "status": 304,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36",
-    "date": "Sun, 26 Oct 2025 12:01:33 GMT",
-    "time": "2025-10-26T12:01:33.020Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/8a",
-    "status": 304,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36",
-    "date": "Sun, 26 Oct 2025 12:02:15 GMT",
-    "time": "2025-10-26T12:02:15.286Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/9d",
-    "status": 200,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36",
-    "date": "Sun, 26 Oct 2025 12:02:19 GMT",
-    "time": "2025-10-26T12:02:19.636Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/8b",
-    "status": 304,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36",
-    "date": "Sun, 26 Oct 2025 12:02:22 GMT",
-    "time": "2025-10-26T12:02:22.706Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/7a",
-    "status": 304,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36",
-    "date": "Sun, 26 Oct 2025 12:02:30 GMT",
-    "time": "2025-10-26T12:02:30.392Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/9d",
-    "status": 304,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36",
-    "date": "Sun, 26 Oct 2025 12:02:38 GMT",
-    "time": "2025-10-26T12:02:38.939Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/8b",
-    "status": 304,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36",
-    "date": "Sun, 26 Oct 2025 12:03:07 GMT",
-    "time": "2025-10-26T12:03:07.983Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/8a",
-    "status": 304,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36",
-    "date": "Sun, 26 Oct 2025 12:04:15 GMT",
-    "time": "2025-10-26T12:04:15.395Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/8a",
-    "status": 304,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36",
-    "date": "Sun, 26 Oct 2025 12:04:45 GMT",
-    "time": "2025-10-26T12:04:45.616Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/7b",
-    "status": 304,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36",
-    "date": "Sun, 26 Oct 2025 12:07:31 GMT",
-    "time": "2025-10-26T12:07:31.347Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/7b",
-    "status": 304,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36",
-    "date": "Sun, 26 Oct 2025 12:07:46 GMT",
-    "time": "2025-10-26T12:07:46.592Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/9b",
-    "status": 304,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36",
-    "date": "Sun, 26 Oct 2025 12:08:56 GMT",
-    "time": "2025-10-26T12:08:56.803Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/8a",
-    "status": 304,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36",
-    "date": "Sun, 26 Oct 2025 12:25:49 GMT",
-    "time": "2025-10-26T12:25:49.544Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/9b",
-    "status": 200,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36",
-    "date": "Sun, 26 Oct 2025 12:34:20 GMT",
-    "time": "2025-10-26T12:34:20.518Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/9b",
-    "status": 200,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36",
-    "date": "Sun, 26 Oct 2025 12:36:56 GMT",
-    "time": "2025-10-26T12:36:56.537Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/8a",
-    "status": 200,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36",
-    "date": "Sun, 26 Oct 2025 12:39:00 GMT",
-    "time": "2025-10-26T12:39:00.218Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/",
-    "status": 200,
-    "user": "Anonim",
-    "userAgent": "Avast Antivirus",
-    "date": "Mon, 27 Oct 2025 04:24:52 GMT",
-    "time": "2025-10-27T04:24:52.021Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/",
-    "status": 200,
-    "user": "Anonim",
-    "userAgent": "-",
-    "date": "Mon, 27 Oct 2025 04:24:58 GMT",
-    "time": "2025-10-27T04:24:58.254Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/loginMsg.js",
-    "status": 404,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko",
-    "date": "Mon, 27 Oct 2025 04:24:58 GMT",
-    "time": "2025-10-27T04:24:58.265Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/cgi/get.cgi?cmd=home_login",
-    "status": 404,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko",
-    "date": "Mon, 27 Oct 2025 04:24:58 GMT",
-    "time": "2025-10-27T04:24:58.269Z"
+    "userAgent": "PostmanRuntime/7.49.1",
+    "date": "Fri, 05 Dec 2025 13:54:16 GMT",
+    "time": "2025-12-05T13:54:16.932Z"
   },
   {
     "type": "request",
     "method": "POST",
-    "url": "/",
+    "url": "/hide",
     "status": 404,
     "user": "Anonim",
-    "userAgent": "Avast Antivirus",
-    "date": "Mon, 27 Oct 2025 04:25:04 GMT",
-    "time": "2025-10-27T04:25:04.352Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/9b",
-    "status": 200,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36",
-    "date": "Mon, 27 Oct 2025 09:47:11 GMT",
-    "time": "2025-10-27T09:47:11.231Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/9b",
-    "status": 200,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36",
-    "date": "Mon, 27 Oct 2025 09:47:50 GMT",
-    "time": "2025-10-27T09:47:50.202Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/9b",
-    "status": 200,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36",
-    "date": "Mon, 27 Oct 2025 10:00:28 GMT",
-    "time": "2025-10-27T10:00:28.771Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/9b",
-    "status": 304,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36",
-    "date": "Mon, 27 Oct 2025 10:00:46 GMT",
-    "time": "2025-10-27T10:00:46.981Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/9b",
-    "status": 200,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36",
-    "date": "Mon, 27 Oct 2025 10:01:35 GMT",
-    "time": "2025-10-27T10:01:35.638Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/9d",
-    "status": 200,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36",
-    "date": "Mon, 27 Oct 2025 10:02:19 GMT",
-    "time": "2025-10-27T10:02:19.949Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/9a",
-    "status": 304,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36",
-    "date": "Mon, 27 Oct 2025 10:02:32 GMT",
-    "time": "2025-10-27T10:02:32.809Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/9b",
-    "status": 304,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36",
-    "date": "Mon, 27 Oct 2025 10:02:40 GMT",
-    "time": "2025-10-27T10:02:40.195Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/9b",
-    "status": 200,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36",
-    "date": "Mon, 27 Oct 2025 10:04:46 GMT",
-    "time": "2025-10-27T10:04:46.307Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/",
-    "status": 200,
-    "user": "Anonim",
-    "userAgent": "Avast Antivirus",
-    "date": "Tue, 28 Oct 2025 11:20:11 GMT",
-    "time": "2025-10-28T11:20:11.852Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/",
-    "status": 200,
-    "user": "Anonim",
-    "userAgent": "-",
-    "date": "Tue, 28 Oct 2025 11:20:18 GMT",
-    "time": "2025-10-28T11:20:18.067Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/loginMsg.js",
-    "status": 404,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko",
-    "date": "Tue, 28 Oct 2025 11:20:18 GMT",
-    "time": "2025-10-28T11:20:18.071Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/cgi/get.cgi?cmd=home_login",
-    "status": 404,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko",
-    "date": "Tue, 28 Oct 2025 11:20:18 GMT",
-    "time": "2025-10-28T11:20:18.075Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/9b",
-    "status": 200,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36",
-    "date": "Tue, 28 Oct 2025 11:20:59 GMT",
-    "time": "2025-10-28T11:20:59.593Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/8a",
-    "status": 200,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36",
-    "date": "Tue, 28 Oct 2025 11:53:13 GMT",
-    "time": "2025-10-28T11:53:13.654Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/8a",
-    "status": 304,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36",
-    "date": "Tue, 28 Oct 2025 11:54:39 GMT",
-    "time": "2025-10-28T11:54:39.404Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/8a",
-    "status": 304,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36",
-    "date": "Tue, 28 Oct 2025 11:55:19 GMT",
-    "time": "2025-10-28T11:55:19.733Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/9b",
-    "status": 304,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36",
-    "date": "Tue, 28 Oct 2025 11:57:53 GMT",
-    "time": "2025-10-28T11:57:53.910Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/8a",
-    "status": 304,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36",
-    "date": "Tue, 28 Oct 2025 11:58:08 GMT",
-    "time": "2025-10-28T11:58:08.423Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/8a",
-    "status": 304,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36",
-    "date": "Tue, 28 Oct 2025 11:58:31 GMT",
-    "time": "2025-10-28T11:58:31.023Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/8a",
-    "status": 304,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36",
-    "date": "Tue, 28 Oct 2025 12:00:05 GMT",
-    "time": "2025-10-28T12:00:05.361Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/8a",
-    "status": 304,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36",
-    "date": "Tue, 28 Oct 2025 12:00:20 GMT",
-    "time": "2025-10-28T12:00:20.647Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/9b",
-    "status": 304,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36",
-    "date": "Tue, 28 Oct 2025 12:00:31 GMT",
-    "time": "2025-10-28T12:00:31.892Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/9b",
-    "status": 304,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36",
-    "date": "Tue, 28 Oct 2025 12:03:29 GMT",
-    "time": "2025-10-28T12:03:29.323Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/9b",
-    "status": 304,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36",
-    "date": "Tue, 28 Oct 2025 12:03:43 GMT",
-    "time": "2025-10-28T12:03:43.809Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/9b",
-    "status": 200,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36",
-    "date": "Tue, 28 Oct 2025 12:08:22 GMT",
-    "time": "2025-10-28T12:08:22.113Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/9b",
-    "status": 304,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36",
-    "date": "Tue, 28 Oct 2025 12:08:31 GMT",
-    "time": "2025-10-28T12:08:31.016Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/8a",
-    "status": 304,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36",
-    "date": "Tue, 28 Oct 2025 12:19:05 GMT",
-    "time": "2025-10-28T12:19:05.920Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/9b",
-    "status": 304,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36",
-    "date": "Tue, 28 Oct 2025 12:19:12 GMT",
-    "time": "2025-10-28T12:19:12.217Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/9a",
-    "status": 200,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36",
-    "date": "Tue, 28 Oct 2025 12:21:34 GMT",
-    "time": "2025-10-28T12:21:34.450Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/9a",
-    "status": 304,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36",
-    "date": "Tue, 28 Oct 2025 12:21:43 GMT",
-    "time": "2025-10-28T12:21:43.511Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/9a",
-    "status": 304,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36",
-    "date": "Tue, 28 Oct 2025 12:22:55 GMT",
-    "time": "2025-10-28T12:22:55.810Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/8b",
-    "status": 304,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36",
-    "date": "Tue, 28 Oct 2025 12:24:49 GMT",
-    "time": "2025-10-28T12:24:49.875Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/8b",
-    "status": 200,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36",
-    "date": "Tue, 28 Oct 2025 12:25:27 GMT",
-    "time": "2025-10-28T12:25:27.228Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/9b",
-    "status": 304,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36",
-    "date": "Tue, 28 Oct 2025 12:26:38 GMT",
-    "time": "2025-10-28T12:26:38.534Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/",
-    "status": 200,
-    "user": "Anonim",
-    "userAgent": "Avast Antivirus",
-    "date": "Tue, 28 Oct 2025 12:28:04 GMT",
-    "time": "2025-10-28T12:28:04.433Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/",
-    "status": 200,
-    "user": "Anonim",
-    "userAgent": "-",
-    "date": "Tue, 28 Oct 2025 12:28:10 GMT",
-    "time": "2025-10-28T12:28:10.740Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/loginMsg.js",
-    "status": 404,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko",
-    "date": "Tue, 28 Oct 2025 12:28:10 GMT",
-    "time": "2025-10-28T12:28:10.746Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/cgi/get.cgi?cmd=home_login",
-    "status": 404,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko",
-    "date": "Tue, 28 Oct 2025 12:28:10 GMT",
-    "time": "2025-10-28T12:28:10.750Z"
+    "userAgent": "PostmanRuntime/7.49.1",
+    "date": "Fri, 05 Dec 2025 13:55:24 GMT",
+    "time": "2025-12-05T13:55:24.127Z"
   },
   {
     "type": "request",
     "method": "POST",
-    "url": "/",
+    "url": "/hide",
     "status": 404,
     "user": "Anonim",
-    "userAgent": "Avast Antivirus",
-    "date": "Tue, 28 Oct 2025 12:28:11 GMT",
-    "time": "2025-10-28T12:28:11.026Z"
+    "userAgent": "PostmanRuntime/7.49.1",
+    "date": "Fri, 05 Dec 2025 13:55:54 GMT",
+    "time": "2025-12-05T13:55:54.346Z"
   },
   {
     "type": "request",
-    "method": "GET",
-    "url": "/grades/9b",
-    "status": 200,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36",
-    "date": "Tue, 28 Oct 2025 12:36:02 GMT",
-    "time": "2025-10-28T12:36:02.971Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/9b",
-    "status": 200,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36",
-    "date": "Tue, 28 Oct 2025 12:40:44 GMT",
-    "time": "2025-10-28T12:40:44.073Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/9b",
-    "status": 200,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36",
-    "date": "Tue, 28 Oct 2025 12:48:34 GMT",
-    "time": "2025-10-28T12:48:34.924Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/",
-    "status": 200,
-    "user": "Anonim",
-    "userAgent": "Avast Antivirus",
-    "date": "Tue, 28 Oct 2025 12:48:49 GMT",
-    "time": "2025-10-28T12:48:49.586Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/",
-    "status": 200,
-    "user": "Anonim",
-    "userAgent": "-",
-    "date": "Tue, 28 Oct 2025 12:48:55 GMT",
-    "time": "2025-10-28T12:48:55.804Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/loginMsg.js",
+    "method": "POST",
+    "url": "/hide",
     "status": 404,
     "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko",
-    "date": "Tue, 28 Oct 2025 12:48:55 GMT",
-    "time": "2025-10-28T12:48:55.807Z"
+    "userAgent": "PostmanRuntime/7.49.1",
+    "date": "Fri, 05 Dec 2025 13:56:08 GMT",
+    "time": "2025-12-05T13:56:08.676Z"
   },
   {
     "type": "request",
-    "method": "GET",
-    "url": "/cgi/get.cgi?cmd=home_login",
+    "method": "POST",
+    "url": "/api/hide",
     "status": 404,
     "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko",
-    "date": "Tue, 28 Oct 2025 12:48:55 GMT",
-    "time": "2025-10-28T12:48:55.811Z"
+    "userAgent": "PostmanRuntime/7.49.1",
+    "date": "Fri, 05 Dec 2025 13:56:28 GMT",
+    "time": "2025-12-05T13:56:28.982Z"
   },
   {
     "type": "request",
-    "method": "GET",
-    "url": "/grades/9b",
-    "status": 200,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36",
-    "date": "Tue, 28 Oct 2025 12:56:27 GMT",
-    "time": "2025-10-28T12:56:27.710Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/9b",
-    "status": 304,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36",
-    "date": "Tue, 28 Oct 2025 14:01:19 GMT",
-    "time": "2025-10-28T14:01:19.082Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/9b",
-    "status": 200,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36",
-    "date": "Tue, 28 Oct 2025 14:09:18 GMT",
-    "time": "2025-10-28T14:09:18.229Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/",
-    "status": 200,
-    "user": "Anonim",
-    "userAgent": "Avast Antivirus",
-    "date": "Tue, 28 Oct 2025 14:20:13 GMT",
-    "time": "2025-10-28T14:20:13.457Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/",
-    "status": 200,
-    "user": "Anonim",
-    "userAgent": "-",
-    "date": "Tue, 28 Oct 2025 14:20:19 GMT",
-    "time": "2025-10-28T14:20:19.702Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/loginMsg.js",
+    "method": "POST",
+    "url": "/hide",
     "status": 404,
     "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko",
-    "date": "Tue, 28 Oct 2025 14:20:19 GMT",
-    "time": "2025-10-28T14:20:19.705Z"
+    "userAgent": "PostmanRuntime/7.49.1",
+    "date": "Fri, 05 Dec 2025 13:56:34 GMT",
+    "time": "2025-12-05T13:56:34.325Z"
   },
   {
     "type": "request",
-    "method": "GET",
-    "url": "/cgi/get.cgi?cmd=home_login",
+    "method": "POST",
+    "url": "/hide",
     "status": 404,
     "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko",
-    "date": "Tue, 28 Oct 2025 14:20:19 GMT",
-    "time": "2025-10-28T14:20:19.708Z"
+    "userAgent": "PostmanRuntime/7.49.1",
+    "date": "Fri, 05 Dec 2025 13:56:56 GMT",
+    "time": "2025-12-05T13:56:56.995Z"
   },
   {
     "type": "request",
-    "method": "GET",
-    "url": "/",
-    "status": 200,
-    "user": "Anonim",
-    "userAgent": "Avast Antivirus",
-    "date": "Tue, 28 Oct 2025 14:22:10 GMT",
-    "time": "2025-10-28T14:22:10.650Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/",
-    "status": 200,
-    "user": "Anonim",
-    "userAgent": "-",
-    "date": "Tue, 28 Oct 2025 14:22:16 GMT",
-    "time": "2025-10-28T14:22:16.854Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/loginMsg.js",
+    "method": "POST",
+    "url": "/hide",
     "status": 404,
     "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko",
-    "date": "Tue, 28 Oct 2025 14:22:16 GMT",
-    "time": "2025-10-28T14:22:16.858Z"
+    "userAgent": "PostmanRuntime/7.49.1",
+    "date": "Fri, 05 Dec 2025 13:57:28 GMT",
+    "time": "2025-12-05T13:57:28.275Z"
   },
   {
     "type": "request",
-    "method": "GET",
-    "url": "/cgi/get.cgi?cmd=home_login",
+    "method": "POST",
+    "url": "/hide",
     "status": 404,
     "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko",
-    "date": "Tue, 28 Oct 2025 14:22:16 GMT",
-    "time": "2025-10-28T14:22:16.862Z"
+    "userAgent": "PostmanRuntime/7.49.1",
+    "date": "Fri, 05 Dec 2025 13:57:30 GMT",
+    "time": "2025-12-05T13:57:30.457Z"
   },
   {
     "type": "request",
-    "method": "GET",
-    "url": "/grades/9b",
-    "status": 304,
+    "method": "POST",
+    "url": "/hide",
+    "status": 404,
     "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36",
-    "date": "Tue, 28 Oct 2025 14:31:34 GMT",
-    "time": "2025-10-28T14:31:34.809Z"
+    "userAgent": "PostmanRuntime/7.49.1",
+    "date": "Fri, 05 Dec 2025 13:57:36 GMT",
+    "time": "2025-12-05T13:57:36.511Z"
   },
   {
     "type": "request",
-    "method": "GET",
-    "url": "/grades/9d",
+    "method": "POST",
+    "url": "/hide",
+    "status": 404,
+    "user": "Anonim",
+    "userAgent": "PostmanRuntime/7.49.1",
+    "date": "Fri, 05 Dec 2025 14:00:03 GMT",
+    "time": "2025-12-05T14:00:03.452Z"
+  },
+  {
+    "type": "request",
+    "method": "POST",
+    "url": "/hide",
+    "status": 404,
+    "user": "Anonim",
+    "userAgent": "PostmanRuntime/7.49.1",
+    "date": "Fri, 05 Dec 2025 14:02:16 GMT",
+    "time": "2025-12-05T14:02:16.997Z"
+  },
+  {
+    "type": "request",
+    "method": "POST",
+    "url": "/hide",
+    "status": 404,
+    "user": "Anonim",
+    "userAgent": "PostmanRuntime/7.49.1",
+    "date": "Fri, 05 Dec 2025 14:02:34 GMT",
+    "time": "2025-12-05T14:02:34.706Z"
+  },
+  {
+    "type": "request",
+    "method": "POST",
+    "url": "/hideData/hide",
     "status": 200,
     "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36",
-    "date": "Tue, 28 Oct 2025 14:33:06 GMT",
-    "time": "2025-10-28T14:33:06.667Z"
+    "userAgent": "PostmanRuntime/7.49.1",
+    "date": "Fri, 05 Dec 2025 14:04:36 GMT",
+    "time": "2025-12-05T14:04:36.370Z"
   },
   {
     "type": "request",
-    "method": "GET",
-    "url": "/grades/9d",
+    "method": "POST",
+    "url": "/hideData/hide",
     "status": 200,
     "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36",
-    "date": "Tue, 28 Oct 2025 14:33:39 GMT",
-    "time": "2025-10-28T14:33:39.146Z"
+    "userAgent": "PostmanRuntime/7.49.1",
+    "date": "Fri, 05 Dec 2025 14:04:52 GMT",
+    "time": "2025-12-05T14:04:52.902Z"
   },
   {
     "type": "request",
-    "method": "GET",
-    "url": "/grades/9b",
-    "status": 304,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36",
-    "date": "Tue, 28 Oct 2025 14:34:48 GMT",
-    "time": "2025-10-28T14:34:48.968Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/9b",
-    "status": 304,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36",
-    "date": "Tue, 28 Oct 2025 14:34:55 GMT",
-    "time": "2025-10-28T14:34:55.504Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/9d",
+    "method": "POST",
+    "url": "/hideData/hide",
     "status": 200,
     "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36",
-    "date": "Tue, 28 Oct 2025 14:36:16 GMT",
-    "time": "2025-10-28T14:36:16.966Z"
+    "userAgent": "PostmanRuntime/7.49.1",
+    "date": "Fri, 05 Dec 2025 14:07:08 GMT",
+    "time": "2025-12-05T14:07:08.297Z"
   },
   {
     "type": "request",
     "method": "GET",
-    "url": "/grades/9b",
-    "status": 304,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36",
-    "date": "Tue, 28 Oct 2025 14:36:51 GMT",
-    "time": "2025-10-28T14:36:51.645Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/9b",
-    "status": 304,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36",
-    "date": "Tue, 28 Oct 2025 14:41:55 GMT",
-    "time": "2025-10-28T14:41:55.441Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/9b",
+    "url": "/hideData/hide",
     "status": 200,
     "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36",
-    "date": "Tue, 28 Oct 2025 14:45:36 GMT",
-    "time": "2025-10-28T14:45:36.593Z"
+    "userAgent": "PostmanRuntime/7.49.1",
+    "date": "Fri, 05 Dec 2025 14:08:32 GMT",
+    "time": "2025-12-05T14:08:32.542Z"
   },
   {
     "type": "request",
-    "method": "GET",
-    "url": "/grades/9a",
-    "status": 200,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36",
-    "date": "Tue, 28 Oct 2025 14:45:53 GMT",
-    "time": "2025-10-28T14:45:53.166Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/9a",
-    "status": 304,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36",
-    "date": "Tue, 28 Oct 2025 14:46:33 GMT",
-    "time": "2025-10-28T14:46:33.381Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/8b",
-    "status": 304,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36",
-    "date": "Tue, 28 Oct 2025 14:47:09 GMT",
-    "time": "2025-10-28T14:47:09.704Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/8a",
-    "status": 304,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36",
-    "date": "Tue, 28 Oct 2025 14:47:19 GMT",
-    "time": "2025-10-28T14:47:19.843Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/7b",
-    "status": 304,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36",
-    "date": "Tue, 28 Oct 2025 14:47:33 GMT",
-    "time": "2025-10-28T14:47:33.281Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/7a",
-    "status": 304,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36",
-    "date": "Tue, 28 Oct 2025 14:47:43 GMT",
-    "time": "2025-10-28T14:47:43.059Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/9d",
+    "method": "POST",
+    "url": "/hideData/hide",
     "status": 200,
     "user": "Anonim",
     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
-    "date": "Mon, 17 Nov 2025 04:39:07 GMT",
-    "time": "2025-11-17T04:39:07.758Z"
+    "date": "Fri, 05 Dec 2025 14:12:45 GMT",
+    "time": "2025-12-05T14:12:45.431Z"
   },
   {
     "type": "request",
-    "method": "GET",
-    "url": "/grades/9a",
+    "method": "POST",
+    "url": "/hideData/hide",
     "status": 200,
     "user": "Anonim",
     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
-    "date": "Wed, 19 Nov 2025 12:33:30 GMT",
-    "time": "2025-11-19T12:33:30.458Z"
+    "date": "Fri, 05 Dec 2025 14:13:04 GMT",
+    "time": "2025-12-05T14:13:04.236Z"
   },
   {
     "type": "request",
-    "method": "GET",
-    "url": "/grades/8b",
+    "method": "POST",
+    "url": "/hideData/hide",
     "status": 200,
     "user": "Anonim",
     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
-    "date": "Wed, 19 Nov 2025 12:37:17 GMT",
-    "time": "2025-11-19T12:37:17.363Z"
+    "date": "Fri, 05 Dec 2025 14:13:05 GMT",
+    "time": "2025-12-05T14:13:05.037Z"
   },
   {
     "type": "request",
-    "method": "GET",
-    "url": "/grades/9a",
+    "method": "POST",
+    "url": "/hideData/hide",
     "status": 200,
     "user": "Anonim",
     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
-    "date": "Wed, 19 Nov 2025 12:37:24 GMT",
-    "time": "2025-11-19T12:37:24.759Z"
+    "date": "Fri, 05 Dec 2025 14:13:50 GMT",
+    "time": "2025-12-05T14:13:50.218Z"
   },
   {
     "type": "request",
-    "method": "GET",
-    "url": "/grades/9d",
+    "method": "POST",
+    "url": "/hideData/hide",
     "status": 200,
     "user": "Anonim",
     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
-    "date": "Wed, 19 Nov 2025 12:37:52 GMT",
-    "time": "2025-11-19T12:37:52.864Z"
+    "date": "Fri, 05 Dec 2025 14:13:51 GMT",
+    "time": "2025-12-05T14:13:51.922Z"
   },
   {
     "type": "request",
-    "method": "GET",
-    "url": "/grades/9d",
+    "method": "POST",
+    "url": "/hideData/hide",
     "status": 200,
     "user": "Anonim",
     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
-    "date": "Wed, 19 Nov 2025 12:38:16 GMT",
-    "time": "2025-11-19T12:38:16.439Z"
+    "date": "Fri, 05 Dec 2025 14:13:56 GMT",
+    "time": "2025-12-05T14:13:56.071Z"
   },
   {
     "type": "request",
-    "method": "GET",
-    "url": "/grades/9d",
-    "status": 304,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
-    "date": "Wed, 19 Nov 2025 12:38:27 GMT",
-    "time": "2025-11-19T12:38:27.616Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/9d",
-    "status": 304,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Mobile Safari/537.36",
-    "date": "Wed, 19 Nov 2025 12:39:27 GMT",
-    "time": "2025-11-19T12:39:27.908Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/9a",
-    "status": 304,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
-    "date": "Wed, 19 Nov 2025 12:40:07 GMT",
-    "time": "2025-11-19T12:40:07.534Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/9d",
-    "status": 304,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
-    "date": "Wed, 19 Nov 2025 12:40:41 GMT",
-    "time": "2025-11-19T12:40:41.098Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/9a",
-    "status": 304,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
-    "date": "Wed, 19 Nov 2025 12:40:45 GMT",
-    "time": "2025-11-19T12:40:45.244Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/9a",
+    "method": "POST",
+    "url": "/hideData/hide",
     "status": 200,
     "user": "Anonim",
     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
-    "date": "Wed, 19 Nov 2025 12:42:14 GMT",
-    "time": "2025-11-19T12:42:14.733Z"
+    "date": "Fri, 05 Dec 2025 14:13:58 GMT",
+    "time": "2025-12-05T14:13:58.758Z"
   },
   {
     "type": "request",
-    "method": "GET",
-    "url": "/grades/9a",
-    "status": 304,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
-    "date": "Wed, 19 Nov 2025 12:42:36 GMT",
-    "time": "2025-11-19T12:42:36.374Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/9d",
+    "method": "POST",
+    "url": "/hideData/hide",
     "status": 200,
     "user": "Anonim",
     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
-    "date": "Wed, 19 Nov 2025 12:42:43 GMT",
-    "time": "2025-11-19T12:42:43.099Z"
+    "date": "Fri, 05 Dec 2025 14:14:01 GMT",
+    "time": "2025-12-05T14:14:01.388Z"
   },
   {
     "type": "request",
-    "method": "GET",
-    "url": "/grades/9a",
+    "method": "POST",
+    "url": "/hideData/hide",
     "status": 200,
     "user": "Anonim",
     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
-    "date": "Wed, 19 Nov 2025 12:47:46 GMT",
-    "time": "2025-11-19T12:47:46.446Z"
+    "date": "Fri, 05 Dec 2025 14:14:03 GMT",
+    "time": "2025-12-05T14:14:03.894Z"
   },
   {
     "type": "request",
-    "method": "GET",
-    "url": "/grades/9b",
+    "method": "POST",
+    "url": "/hideData/hide",
     "status": 200,
     "user": "Anonim",
     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
-    "date": "Wed, 19 Nov 2025 12:47:49 GMT",
-    "time": "2025-11-19T12:47:49.220Z"
+    "date": "Fri, 05 Dec 2025 14:14:06 GMT",
+    "time": "2025-12-05T14:14:06.223Z"
   },
   {
     "type": "request",
-    "method": "GET",
-    "url": "/grades/9d",
+    "method": "POST",
+    "url": "/hideData/hide",
     "status": 200,
     "user": "Anonim",
     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
-    "date": "Sat, 22 Nov 2025 05:19:01 GMT",
-    "time": "2025-11-22T05:19:01.187Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/9a",
-    "status": 200,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
-    "date": "Sat, 22 Nov 2025 05:19:07 GMT",
-    "time": "2025-11-22T05:19:07.021Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/7a",
-    "status": 200,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
-    "date": "Sat, 22 Nov 2025 05:19:17 GMT",
-    "time": "2025-11-22T05:19:17.466Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/8b",
-    "status": 200,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
-    "date": "Sat, 22 Nov 2025 05:19:31 GMT",
-    "time": "2025-11-22T05:19:31.619Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/9b",
-    "status": 200,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
-    "date": "Sat, 22 Nov 2025 05:19:52 GMT",
-    "time": "2025-11-22T05:19:52.380Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/9b",
-    "status": 200,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
-    "date": "Sat, 22 Nov 2025 05:25:01 GMT",
-    "time": "2025-11-22T05:25:01.491Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/9b",
-    "status": 200,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
-    "date": "Fri, 05 Dec 2025 10:49:53 GMT",
-    "time": "2025-12-05T10:49:53.849Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/9b",
-    "status": 200,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
-    "date": "Fri, 05 Dec 2025 10:58:33 GMT",
-    "time": "2025-12-05T10:58:33.897Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/9b",
-    "status": 304,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
-    "date": "Fri, 05 Dec 2025 10:58:53 GMT",
-    "time": "2025-12-05T10:58:53.501Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/9b",
-    "status": 304,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
-    "date": "Fri, 05 Dec 2025 11:02:45 GMT",
-    "time": "2025-12-05T11:02:45.816Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/9d",
-    "status": 200,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
-    "date": "Fri, 05 Dec 2025 11:12:47 GMT",
-    "time": "2025-12-05T11:12:47.263Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/9a",
-    "status": 200,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
-    "date": "Fri, 05 Dec 2025 11:12:52 GMT",
-    "time": "2025-12-05T11:12:52.779Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/9a",
-    "status": 304,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
-    "date": "Fri, 05 Dec 2025 11:14:09 GMT",
-    "time": "2025-12-05T11:14:09.473Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/9a",
-    "status": 304,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
-    "date": "Fri, 05 Dec 2025 11:14:22 GMT",
-    "time": "2025-12-05T11:14:22.965Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/9a",
-    "status": 200,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
-    "date": "Fri, 05 Dec 2025 11:15:20 GMT",
-    "time": "2025-12-05T11:15:20.738Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/9a",
-    "status": 200,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
-    "date": "Fri, 05 Dec 2025 11:18:37 GMT",
-    "time": "2025-12-05T11:18:37.231Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/9a",
-    "status": 200,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
-    "date": "Fri, 05 Dec 2025 11:19:01 GMT",
-    "time": "2025-12-05T11:19:01.719Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/9a",
-    "status": 304,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
-    "date": "Fri, 05 Dec 2025 11:19:08 GMT",
-    "time": "2025-12-05T11:19:08.078Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/9a",
-    "status": 304,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
-    "date": "Fri, 05 Dec 2025 11:19:36 GMT",
-    "time": "2025-12-05T11:19:36.630Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/9b",
-    "status": 304,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
-    "date": "Fri, 05 Dec 2025 11:19:36 GMT",
-    "time": "2025-12-05T11:19:36.921Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/9a",
-    "status": 304,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
-    "date": "Fri, 05 Dec 2025 11:19:56 GMT",
-    "time": "2025-12-05T11:19:56.541Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/9b",
-    "status": 304,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
-    "date": "Fri, 05 Dec 2025 11:19:56 GMT",
-    "time": "2025-12-05T11:19:56.904Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/9a",
-    "status": 304,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
-    "date": "Fri, 05 Dec 2025 11:20:02 GMT",
-    "time": "2025-12-05T11:20:02.015Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/9b",
-    "status": 304,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
-    "date": "Fri, 05 Dec 2025 11:20:02 GMT",
-    "time": "2025-12-05T11:20:02.889Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/9a",
-    "status": 304,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
-    "date": "Fri, 05 Dec 2025 11:20:04 GMT",
-    "time": "2025-12-05T11:20:04.171Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/9b",
-    "status": 304,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
-    "date": "Fri, 05 Dec 2025 11:20:04 GMT",
-    "time": "2025-12-05T11:20:04.906Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/9a",
-    "status": 200,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
-    "date": "Fri, 05 Dec 2025 11:20:34 GMT",
-    "time": "2025-12-05T11:20:34.676Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/8b",
-    "status": 200,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
-    "date": "Fri, 05 Dec 2025 11:24:44 GMT",
-    "time": "2025-12-05T11:24:44.355Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/7b",
-    "status": 200,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
-    "date": "Fri, 05 Dec 2025 11:25:39 GMT",
-    "time": "2025-12-05T11:25:39.792Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/9b",
-    "status": 304,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
-    "date": "Fri, 05 Dec 2025 11:25:42 GMT",
-    "time": "2025-12-05T11:25:42.944Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/9b",
-    "status": 304,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
-    "date": "Fri, 05 Dec 2025 11:28:09 GMT",
-    "time": "2025-12-05T11:28:09.879Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/9b",
-    "status": 304,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
-    "date": "Fri, 05 Dec 2025 11:28:09 GMT",
-    "time": "2025-12-05T11:28:09.890Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/9a",
-    "status": 304,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
-    "date": "Fri, 05 Dec 2025 11:35:37 GMT",
-    "time": "2025-12-05T11:35:37.821Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/8b",
-    "status": 304,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
-    "date": "Fri, 05 Dec 2025 11:35:45 GMT",
-    "time": "2025-12-05T11:35:45.416Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/8a",
-    "status": 200,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
-    "date": "Fri, 05 Dec 2025 11:35:49 GMT",
-    "time": "2025-12-05T11:35:49.273Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/9b",
-    "status": 304,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
-    "date": "Fri, 05 Dec 2025 11:36:06 GMT",
-    "time": "2025-12-05T11:36:06.562Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/9b",
-    "status": 304,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
-    "date": "Fri, 05 Dec 2025 11:39:50 GMT",
-    "time": "2025-12-05T11:39:50.464Z"
-  },
-  {
-    "type": "request",
-    "method": "GET",
-    "url": "/grades/8b",
-    "status": 304,
-    "user": "Anonim",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
-    "date": "Fri, 05 Dec 2025 11:42:38 GMT",
-    "time": "2025-12-05T11:42:38.637Z"
+    "date": "Fri, 05 Dec 2025 14:14:08 GMT",
+    "time": "2025-12-05T14:14:08.491Z"
   }
 ]

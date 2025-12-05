@@ -1,41 +1,51 @@
 import express from "express";
+import fs from "fs";
+import path from "path";
+
 const router = express.Router();
 
-// Fake DB (agar real Mongo bo'lsa, shu yerga model qo'yasan)
-let settings = {
-  students_data: true, // default holat
-};
+const dirPath = path.join(process.cwd(), "data");
+const filePath = path.join(dirPath, "studentsData.json");
 
-// === HIDE ===
-// POST /hide
+// Folder bo‘lmasa — yaratish
+if (!fs.existsSync(dirPath)) {
+  fs.mkdirSync(dirPath, { recursive: true });
+}
+
+// File bo‘lmasa — default yozish
+if (!fs.existsSync(filePath)) {
+  fs.writeFileSync(filePath, JSON.stringify({ students_data: true }, null, 2));
+}
+
+// JSON o‘qish
+function readData() {
+  return JSON.parse(fs.readFileSync(filePath, "utf-8") || "{}");
+}
+
+// JSON yozish
+function writeData(data) {
+  fs.writeFileSync(filePath, JSON.stringify(data, null, 2), "utf-8");
+}
+
+// === SET STATUS (true/false) ===
 router.post("/hide", (req, res) => {
-  settings.students_data = false;
+  const current = readData();
+  const updated = { ...current, ...req.body }; // { students_data: true/false }
 
-  return res.json({
+  writeData(updated);
+
+  res.json({
     success: true,
-    message: "Ma'lumotlar berkitildi",
-    data: settings,
-  });
-});
-
-// === SHOW ===
-// POST /show
-router.post("/show", (req, res) => {
-  settings.students_data = true;
-
-  return res.json({
-    success: true,
-    message: "Ma'lumotlar ochildi",
-    data: settings,
+    message: "Status yangilandi",
+    data: updated,
   });
 });
 
 // === GET STATUS ===
-// /status — front-end holatni bilishi uchun
-router.get("/status", (req, res) => {
-  return res.json({
+router.get("/hide", (req, res) => {
+  res.json({
     success: true,
-    data: settings,
+    data: readData(),
   });
 });
 

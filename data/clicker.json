@@ -1,5 +1,5 @@
 {
-  "required": 50,
-  "dailyBonus": 2,
-  "maxBonus": 50
+	"required": 60,
+	"dailyBonus": 2,
+	"maxBonus": 50
 }
