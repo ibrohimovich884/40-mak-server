@@ -24,7 +24,7 @@
             "Full name": "Dexkanova O`g`iloy Alijon qizi",
             "Name": "O`g`iloy",
             "Grade": "8b",
-            "Image": "/students/grade8b/ogloy1.jpg",
+            "Image": "/students/grade8b/ogloy2.jpg",
             "Gender": "Female",
             "Birthday": "2011-09-10",
             "Instagram": "_og1loy_o11_",
@@ -34,11 +34,11 @@
             "Full name": "Egamberganova Kumushoy Baxodir qizi",
             "Name": "Kumush",
             "Grade": "8b",
-            "Image": "",
+            "Image": "/students/grade8b/kumush.jpg",
             "Gender": "Female",
             "Birthday": "2011-12-06",
             "Instagram": "Unknown",
-            "Talked": "Unknown"
+            "Talked": "Jasur"
         },
         {
             "Full name": "Ergasheva Munisa Ulug'bek qizi",
@@ -144,7 +144,7 @@
             "Full name": "Shokirboyeva Zarnigor Davron qizi",
             "Name": "Zarnigor",
             "Grade": "8b",
-            "Image": "/students/grade8b/zari.jpg",
+            "Image": "/students/grade8b/zarnigor.jpg",
             "Gender": "Female",
             "Birthday": "2011-04-25",
             "Instagram": "_al1werva_o7o_",
@@ -237,7 +237,7 @@
             "Image": "",
             "Gender": "Male",
             "Birthday": "2011-01-18",
-            "Instagram": "Unknown",
+            "Instagram": "6603.sherzod8",
             "Talked": "Unknown"
         }
     ]

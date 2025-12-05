@@ -27,7 +27,7 @@
             "Image": "",
             "Gender": "Female",
             "Birthday": "2010-07-22",
-            "Instagram": "Unknown",
+            "Instagram": "bkhd1rovna_sh",
             "Talked": "Unknown"
         },
         {
@@ -57,7 +57,7 @@
             "Image": "",
             "Gender": "Female",
             "Birthday": "2010-02-18",
-            "Instagram": "Unknown",
+            "Instagram": "furkatovnem_o1",
             "Talked": "Unknown"
         },
         {
@@ -74,7 +74,7 @@
             "Full name": "Nurbekova Bonu Olmosbek qizi",
             "Name": "Bonu",
             "Grade": "9a",
-            "Image": "",
+            "Image": "/students/grade9a/bonu.png",
             "Gender": "Female",
             "Birthday": "2010-03-23",
             "Instagram": "Unknown",
@@ -102,7 +102,7 @@
         },
         {
             "Full name": "Abdugapparov Abdulaziz Farhod o‘g‘li",
-            "Name": "Abuz",
+            "Name": "Abu",
             "Grade": "",
             "Image": "",
             "Gender": "Male",
@@ -143,7 +143,7 @@
         {
             "Full name": "Dehqonov Bexruz O‘tkir o‘g‘li",
             "Name": "Bexruz",
-            "Grade": "",
+            "Grade": "9a",
             "Image": "",
             "Gender": "Male",
             "Birthday": "2010-10-13",
@@ -153,7 +153,7 @@
         {
             "Full name": "Ibrohimov Salohiddin Dilmurod o‘g‘li",
             "Name": "Salohiddin",
-            "Grade": "",
+            "Grade": "9a",
             "Image": "",
             "Gender": "Male",
             "Birthday": "2010-12-16",
@@ -163,7 +163,7 @@
         {
             "Full name": "Ismoiljonov Muhammadyusuf Nuriddin o‘g‘li",
             "Name": "Muhammadyusuf",
-            "Grade": "",
+            "Grade": "9a",
             "Image": "",
             "Gender": "Male",
             "Birthday": "2010-03-12",
@@ -173,27 +173,27 @@
         {
             "Full name": "Jurayev Muhammadrizo Baxtiyor o‘g‘li",
             "Name": "Rizo",
-            "Grade": "/students/grade9a/rizo.jpg",
-            "Image": "",
+            "Grade": "9a",
+            "Image": "/students/grade9a/rizo.jpg",
             "Gender": "Male",
             "Birthday": "2010-12-16",
-            "Instagram": "Unknown",
+            "Instagram": "jorayev_818",
             "Talked": "Unknown"
         },
         {
             "Full name": "Marupjonov Diyorbek Rustam o‘g‘li",
             "Name": "Diyor",
-            "Grade": "",
+            "Grade": "9a",
             "Image": "",
             "Gender": "Male",
             "Birthday": "Unknown",
-            "Instagram": "Unknown",
+            "Instagram": "marupjonvv777",
             "Talked": "Unknown"
         },
         {
             "Full name": "Mirzarahimov Asilbek Ulug‘bek o‘g‘li",
             "Name": "Asilbek",
-            "Grade": "",
+            "Grade": "9a",
             "Image": "",
             "Gender": "Male",
             "Birthday": "2010-01-15",
@@ -203,7 +203,7 @@
         {
             "Full name": "Mirzayev Murodjon Gayrat o‘g‘li",
             "Name": "Murod",
-            "Grade": "",
+            "Grade": "9a",
             "Image": "",
             "Gender": "Male",
             "Birthday": "2010-07-23",
@@ -213,17 +213,17 @@
         {
             "Full name": "Nuritdinov Azizbek Komol o‘g‘li",
             "Name": "Aziz",
-            "Grade": "",
+            "Grade": "9a",
             "Image": "",
             "Gender": "Male",
             "Birthday": "2010-03-09",
-            "Instagram": "Unknown",
+            "Instagram": "rocco_07_a",
             "Talked": "Unknown"
         },
         {
             "Full name": "Olimjanov Valixon Akmal o‘g‘li",
             "Name": "Vali",
-            "Grade": "",
+            "Grade": "9a",
             "Image": "",
             "Gender": "Male",
             "Birthday": "2010-08-02",
@@ -233,7 +233,7 @@
         {
             "Full name": "Xakimboyev Shoxrux Xurshid o‘g‘li",
             "Name": "Shoxrux",
-            "Grade": "",
+            "Grade": "9a",
             "Image": "",
             "Gender": "Male",
             "Birthday": "2010-07-22",
@@ -243,8 +243,8 @@
         {
             "Full name": "Yaqubjanov Samandar Sherzod o‘g‘li",
             "Name": "Samandar",
-            "Grade": "",
-            "Image": "",
+            "Grade": "9a",
+            "Image": "/students/grade9a/samandar.png",
             "Gender": "Male",
             "Birthday": "2010-04-18",
             "Instagram": "Unknown",
