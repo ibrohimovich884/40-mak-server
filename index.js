@@ -1,7 +1,7 @@
 import express from "express";
 import gradeRoutes from "./routes/gradeRoutes.js";
 import clickerRoutes from "./routes/clickerRoutes.js";
-import logsRoutes from "./routes/logs.js";
+import hideDataRoutes from "./routes/hideDataRoutes.js";
 import logs from "./routes/logs.js";
 import cors from "cors";
 import morgan from "morgan";
@@ -109,6 +109,7 @@ app.post("/notify", (req, res) => {
 
 app.use("/grades", gradeRoutes);
 app.use("/clicker", clickerRoutes);
+app.use("/hideData", hideDataRoutes);
 app.use("/logs", logs);
 
 
