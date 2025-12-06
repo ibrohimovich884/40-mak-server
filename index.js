@@ -2,6 +2,7 @@ import express from "express";
 import gradeRoutes from "./routes/gradeRoutes.js";
 import clickerRoutes from "./routes/clickerRoutes.js";
 import hideDataRoutes from "./routes/hideDataRoutes.js";
+import updatePassRoute from "./routes/updatePassRoute.js";
 import logs from "./routes/logs.js";
 import cors from "cors";
 import morgan from "morgan";
@@ -110,32 +111,9 @@ app.post("/notify", (req, res) => {
 app.use("/grades", gradeRoutes);
 app.use("/clicker", clickerRoutes);
 app.use("/hideData", hideDataRoutes);
+app.use("/updatePass", updatePassRoute);
 app.use("/logs", logs);
-
 
 app.listen(PORT, () => {
   console.log(`Server ishga tushdi: http://localhost:${PORT}`);
 });
-
-
-
-
-
-
-
-
-
-
-/* dataga qoshib qoyishing kerak
-
-{
-  "Full name": "Bekmirzayev Oybek Ibrohim o'g'li",
-    "Name": "Oybek",
-      "Grade": "9b",
-        "Image": "",
-          "Gender": "Male",
-            "Birthday": "2010-07-17",
-              "Instagram": "ibrohimovich_o1",
-                "Talked": "Hech kim :)"
-},
-*/
