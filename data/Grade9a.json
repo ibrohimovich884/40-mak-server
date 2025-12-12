@@ -1,254 +1,279 @@
 {
-    "Grade9a": [
-        {
-            "Full name": "Abdurahmonova Ruxshona Murodjon qizi",
-            "Name": "Ruxshona",
-            "Grade": "9a",
-            "Image": "",
-            "Gender": "Female",
-            "Birthday": "2010-11-17",
-            "Instagram": "Unknown",
-            "Talked": "Unknown"
-        },
-        {
-            "Full name": "Alijonova Ruxshona Bekzod qizi",
-            "Name": "Ruxshona",
-            "Grade": "9a",
-            "Image": "",
-            "Gender": "Female",
-            "Birthday": "2010-06-21",
-            "Instagram": "Unknown",
-            "Talked": "Unknown"
-        },
-        {
-            "Full name": "Baxtiyarova Shamsiya Baxodir qizi",
-            "Name": "Shamsiya",
-            "Grade": "9a",
-            "Image": "",
-            "Gender": "Female",
-            "Birthday": "2010-07-22",
-            "Instagram": "bkhd1rovna_sh",
-            "Talked": "Unknown"
-        },
-        {
-            "Full name": "Djalilova Hilola Ilxom qizi",
-            "Name": "Hilola",
-            "Grade": "9a",
-            "Image": "",
-            "Gender": "Female",
-            "Birthday": "2010-11-06",
-            "Instagram": "Unknown",
-            "Talked": "Unknown"
-        },
-        {
-            "Full name": "Farxodova Zahro Temur qizi",
-            "Name": "Zahro",
-            "Grade": "9a",
-            "Image": "",
-            "Gender": "Female",
-            "Birthday": "2010-08-27",
-            "Instagram": "Unknown",
-            "Talked": "Unknown"
-        },
-        {
-            "Full name": "Furqatova Omina Jasurbek qizi",
-            "Name": "Omina",
-            "Grade": "9a",
-            "Image": "",
-            "Gender": "Female",
-            "Birthday": "2010-02-18",
-            "Instagram": "furkatovnem_o1",
-            "Talked": "Unknown"
-        },
-        {
-            "Full name": "Karimjanova Roziyabonu Maxmudjon qizi",
-            "Name": "Roziya",
-            "Grade": "9a",
-            "Image": "",
-            "Gender": "Female",
-            "Birthday": "2010-08-24",
-            "Instagram": "Unknown",
-            "Talked": "Unknown"
-        },
-        {
-            "Full name": "Nurbekova Bonu Olmosbek qizi",
-            "Name": "Bonu",
-            "Grade": "9a",
-            "Image": "/students/grade9a/bonu.png",
-            "Gender": "Female",
-            "Birthday": "2010-03-23",
-            "Instagram": "Unknown",
-            "Talked": "Unknown"
-        },
-        {
-            "Full name": "Sobirova Guzal Baxtiyor qizi",
-            "Name": "Guzal",
-            "Grade": "9a",
-            "Image": "",
-            "Gender": "Female",
-            "Birthday": "2010-01-20",
-            "Instagram": "Unknown",
-            "Talked": "Unknown"
-        },
-        {
-            "Full name": "Shokirova Sarvinoz Sarvar qizi",
-            "Name": "Sarvinoz",
-            "Grade": "9a",
-            "Image": "",
-            "Gender": "Female",
-            "Birthday": "2010-01-23",
-            "Instagram": "Unknown",
-            "Talked": "Unknown"
-        },
-        {
-            "Full name": "Abdugapparov Abdulaziz Farhod o‘g‘li",
-            "Name": "Abu",
-            "Grade": "",
-            "Image": "",
-            "Gender": "Male",
-            "Birthday": "2010-01-08",
-            "Instagram": "Unknown",
-            "Talked": "Unknown"
-        },
-        {
-            "Full name": "Abdurashidov Baxtiyorbek Abdumajit o‘g‘li",
-            "Name": "Baxti",
-            "Grade": "",
-            "Image": "",
-            "Gender": "Male",
-            "Birthday": "2010-12-03",
-            "Instagram": "Unknown",
-            "Talked": "Unknown"
-        },
-        {
-            "Full name": "Ag‘zambayev Begzod Aziz o‘g‘li",
-            "Name": "Begzod",
-            "Grade": "",
-            "Image": "",
-            "Gender": "Male",
-            "Birthday": "2010-09-12",
-            "Instagram": "Unknown",
-            "Talked": "Unknown"
-        },
-        {
-            "Full name": "Baxtiyorov Elyor Ixtiyor o‘g‘li",
-            "Name": "Elyor",
-            "Grade": "",
-            "Image": "",
-            "Gender": "Male",
-            "Birthday": "2010-07-17",
-            "Instagram": "Unknown",
-            "Talked": "Unknown"
-        },
-        {
-            "Full name": "Dehqonov Bexruz O‘tkir o‘g‘li",
-            "Name": "Bexruz",
-            "Grade": "9a",
-            "Image": "",
-            "Gender": "Male",
-            "Birthday": "2010-10-13",
-            "Instagram": "Unknown",
-            "Talked": "Unknown"
-        },
-        {
-            "Full name": "Ibrohimov Salohiddin Dilmurod o‘g‘li",
-            "Name": "Salohiddin",
-            "Grade": "9a",
-            "Image": "",
-            "Gender": "Male",
-            "Birthday": "2010-12-16",
-            "Instagram": "Unknown",
-            "Talked": "Unknown"
-        },
-        {
-            "Full name": "Ismoiljonov Muhammadyusuf Nuriddin o‘g‘li",
-            "Name": "Muhammadyusuf",
-            "Grade": "9a",
-            "Image": "",
-            "Gender": "Male",
-            "Birthday": "2010-03-12",
-            "Instagram": "Unknown",
-            "Talked": "Unknown"
-        },
-        {
-            "Full name": "Jurayev Muhammadrizo Baxtiyor o‘g‘li",
-            "Name": "Rizo",
-            "Grade": "9a",
-            "Image": "/students/grade9a/rizo.jpg",
-            "Gender": "Male",
-            "Birthday": "2010-12-16",
-            "Instagram": "jorayev_818",
-            "Talked": "Unknown"
-        },
-        {
-            "Full name": "Marupjonov Diyorbek Rustam o‘g‘li",
-            "Name": "Diyor",
-            "Grade": "9a",
-            "Image": "",
-            "Gender": "Male",
-            "Birthday": "Unknown",
-            "Instagram": "marupjonvv777",
-            "Talked": "Unknown"
-        },
-        {
-            "Full name": "Mirzarahimov Asilbek Ulug‘bek o‘g‘li",
-            "Name": "Asilbek",
-            "Grade": "9a",
-            "Image": "",
-            "Gender": "Male",
-            "Birthday": "2010-01-15",
-            "Instagram": "Unknown",
-            "Talked": "Unknown"
-        },
-        {
-            "Full name": "Mirzayev Murodjon Gayrat o‘g‘li",
-            "Name": "Murod",
-            "Grade": "9a",
-            "Image": "",
-            "Gender": "Male",
-            "Birthday": "2010-07-23",
-            "Instagram": "Unknown",
-            "Talked": "Unknown"
-        },
-        {
-            "Full name": "Nuritdinov Azizbek Komol o‘g‘li",
-            "Name": "Aziz",
-            "Grade": "9a",
-            "Image": "",
-            "Gender": "Male",
-            "Birthday": "2010-03-09",
-            "Instagram": "rocco_07_a",
-            "Talked": "Unknown"
-        },
-        {
-            "Full name": "Olimjanov Valixon Akmal o‘g‘li",
-            "Name": "Vali",
-            "Grade": "9a",
-            "Image": "",
-            "Gender": "Male",
-            "Birthday": "2010-08-02",
-            "Instagram": "Unknown",
-            "Talked": "Unknown"
-        },
-        {
-            "Full name": "Xakimboyev Shoxrux Xurshid o‘g‘li",
-            "Name": "Shoxrux",
-            "Grade": "9a",
-            "Image": "",
-            "Gender": "Male",
-            "Birthday": "2010-07-22",
-            "Instagram": "Unknown",
-            "Talked": "Unknown"
-        },
-        {
-            "Full name": "Yaqubjanov Samandar Sherzod o‘g‘li",
-            "Name": "Samandar",
-            "Grade": "9a",
-            "Image": "/students/grade9a/samandar.png",
-            "Gender": "Male",
-            "Birthday": "2010-04-18",
-            "Instagram": "Unknown",
-            "Talked": "Unknown"
-        }
-    ]
+  "Grade9a": [
+    {
+      "Full name": "Abdurahmonova Ruxshona Murodjon qizi",
+      "Name": "Ruxshona",
+      "Grade": "9a",
+      "Image": "",
+      "Gender": "Female",
+      "Birthday": "2010-11-17",
+      "Instagram": "Unknown",
+      "Talked": "Unknown",
+      "updateTime": "2025-10-03"
+    },
+    {
+      "Full name": "Alijonova Ruxshona Bekzod qizi",
+      "Name": "Ruxshona",
+      "Grade": "9a",
+      "Image": "",
+      "Gender": "Female",
+      "Birthday": "2010-06-21",
+      "Instagram": "Unknown",
+      "Talked": "Unknown",
+      "updateTime": "2025-10-03"
+    },
+    {
+      "Full name": "Baxtiyarova Shamsiya Baxodir qizi",
+      "Name": "Shamsiya",
+      "Grade": "9a",
+      "Image": "",
+      "Gender": "Female",
+      "Birthday": "2010-07-22",
+      "Instagram": "bkhd1rovna_sh",
+      "Talked": "Unknown",
+      "updateTime": "2025-10-03"
+    },
+    {
+      "Full name": "Djalilova Hilola Ilxom qizi",
+      "Name": "Hilola",
+      "Grade": "9a",
+      "Image": "",
+      "Gender": "Female",
+      "Birthday": "2010-11-06",
+      "Instagram": "Unknown",
+      "Talked": "Unknown",
+      "updateTime": "2025-10-03"
+    },
+    {
+      "Full name": "Farxodova Zahro Temur qizi",
+      "Name": "Zahro",
+      "Grade": "9a",
+      "Image": "",
+      "Gender": "Female",
+      "Birthday": "2010-08-27",
+      "Instagram": "Unknown",
+      "Talked": "Unknown",
+      "updateTime": "2025-10-03"
+    },
+    {
+      "Full name": "Furqatova Omina Jasurbek qizi",
+      "Name": "Omina",
+      "Grade": "9a",
+      "Image": "",
+      "Gender": "Female",
+      "Birthday": "2010-02-18",
+      "Instagram": "furkatovnem_o1",
+      "Talked": "Unknown",
+      "updateTime": "2025-10-03"
+    },
+    {
+      "Full name": "Karimjanova Roziyabonu Maxmudjon qizi",
+      "Name": "Roziya",
+      "Grade": "9a",
+      "Image": "",
+      "Gender": "Female",
+      "Birthday": "2010-08-24",
+      "Instagram": "Unknown",
+      "Talked": "Unknown",
+      "updateTime": "2025-10-03"
+    },
+    {
+      "Full name": "Nurbekova Bonu Olmosbek qizi",
+      "Name": "Bonu",
+      "Grade": "9a",
+      "Image": "/students/grade9a/bonu.png",
+      "Gender": "Female",
+      "Birthday": "2010-03-23",
+      "Instagram": "Unknown",
+      "Talked": "Unknown",
+      "updateTime": "2025-10-03"
+    },
+    {
+      "Full name": "Sobirova Guzal Baxtiyor qizi",
+      "Name": "Guzal",
+      "Grade": "9a",
+      "Image": "",
+      "Gender": "Female",
+      "Birthday": "2010-01-20",
+      "Instagram": "Unknown",
+      "Talked": "Unknown",
+      "updateTime": "2025-10-03"
+    },
+    {
+      "Full name": "Shokirova Sarvinoz Sarvar qizi",
+      "Name": "Sarvinoz",
+      "Grade": "9a",
+      "Image": "",
+      "Gender": "Female",
+      "Birthday": "2010-01-23",
+      "Instagram": "Unknown",
+      "Talked": "Unknown",
+      "updateTime": "2025-10-03"
+    },
+    {
+      "Full name": "Abdugapparov Abdulaziz Farhod o‘g‘li",
+      "Name": "Abu",
+      "Grade": "",
+      "Image": "",
+      "Gender": "Male",
+      "Birthday": "2010-01-08",
+      "Instagram": "Unknown",
+      "Talked": "Unknown",
+      "updateTime": "2025-10-03"
+    },
+    {
+      "Full name": "Abdurashidov Baxtiyorbek Abdumajit o‘g‘li",
+      "Name": "Baxti",
+      "Grade": "",
+      "Image": "",
+      "Gender": "Male",
+      "Birthday": "2010-12-03",
+      "Instagram": "Unknown",
+      "Talked": "Unknown",
+      "updateTime": "2025-10-03"
+    },
+    {
+      "Full name": "Ag‘zambayev Begzod Aziz o‘g‘li",
+      "Name": "Begzod",
+      "Grade": "",
+      "Image": "",
+      "Gender": "Male",
+      "Birthday": "2010-09-12",
+      "Instagram": "Unknown",
+      "Talked": "Unknown",
+      "updateTime": "2025-10-03"
+    },
+    {
+      "Full name": "Baxtiyorov Elyor Ixtiyor o‘g‘li",
+      "Name": "Elyor",
+      "Grade": "",
+      "Image": "",
+      "Gender": "Male",
+      "Birthday": "2010-07-17",
+      "Instagram": "Unknown",
+      "Talked": "Unknown",
+      "updateTime": "2025-10-03"
+    },
+    {
+      "Full name": "Dehqonov Bexruz O‘tkir o‘g‘li",
+      "Name": "Bexruz",
+      "Grade": "9a",
+      "Image": "",
+      "Gender": "Male",
+      "Birthday": "2010-10-13",
+      "Instagram": "Unknown",
+      "Talked": "Unknown",
+      "updateTime": "2025-10-03"
+    },
+    {
+      "Full name": "Ibrohimov Salohiddin Dilmurod o‘g‘li",
+      "Name": "Salohiddin",
+      "Grade": "9a",
+      "Image": "",
+      "Gender": "Male",
+      "Birthday": "2010-12-16",
+      "Instagram": "Unknown",
+      "Talked": "Unknown",
+      "updateTime": "2025-10-03"
+    },
+    {
+      "Full name": "Ismoiljonov Muhammadyusuf Nuriddin o‘g‘li",
+      "Name": "Muhammadyusuf",
+      "Grade": "9a",
+      "Image": "",
+      "Gender": "Male",
+      "Birthday": "2010-03-12",
+      "Instagram": "Unknown",
+      "Talked": "Unknown",
+      "updateTime": "2025-10-03"
+    },
+    {
+      "Full name": "Jurayev Muhammadrizo Baxtiyor o‘g‘li",
+      "Name": "Rizo",
+      "Grade": "9a",
+      "Image": "/students/grade9a/rizo.jpg",
+      "Gender": "Male",
+      "Birthday": "2010-12-16",
+      "Instagram": "jorayev_818",
+      "Talked": "Unknown",
+      "updateTime": "2025-10-03"
+    },
+    {
+      "Full name": "Marupjonov Diyorbek Rustam o‘g‘li",
+      "Name": "Diyor",
+      "Grade": "9a",
+      "Image": "",
+      "Gender": "Male",
+      "Birthday": "Unknown",
+      "Instagram": "marupjonvv777",
+      "Talked": "Unknown",
+      "updateTime": "2025-10-03"
+    },
+    {
+      "Full name": "Mirzarahimov Asilbek Ulug‘bek o‘g‘li",
+      "Name": "Asilbek",
+      "Grade": "9a",
+      "Image": "",
+      "Gender": "Male",
+      "Birthday": "2010-01-15",
+      "Instagram": "Unknown",
+      "Talked": "Unknown",
+      "updateTime": "2025-10-03"
+    },
+    {
+      "Full name": "Mirzayev Murodjon Gayrat o‘g‘li",
+      "Name": "Murod",
+      "Grade": "9a",
+      "Image": "",
+      "Gender": "Male",
+      "Birthday": "2010-07-23",
+      "Instagram": "Unknown",
+      "Talked": "Unknown",
+      "updateTime": "2025-10-03"
+    },
+    {
+      "Full name": "Nuritdinov Azizbek Komol o‘g‘li",
+      "Name": "Aziz",
+      "Grade": "9a",
+      "Image": "",
+      "Gender": "Male",
+      "Birthday": "2010-03-09",
+      "Instagram": "rocco_07_a",
+      "Talked": "Unknown",
+      "updateTime": "2025-10-03"
+    },
+    {
+      "Full name": "Olimjanov Valixon Akmal o‘g‘li",
+      "Name": "Vali",
+      "Grade": "9a",
+      "Image": "",
+      "Gender": "Male",
+      "Birthday": "2010-08-02",
+      "Instagram": "Unknown",
+      "Talked": "Unknown",
+      "updateTime": "2025-10-03"
+    },
+    {
+      "Full name": "Xakimboyev Shoxrux Xurshid o‘g‘li",
+      "Name": "Shoxrux",
+      "Grade": "9a",
+      "Image": "",
+      "Gender": "Male",
+      "Birthday": "2010-07-22",
+      "Instagram": "Unknown",
+      "Talked": "Unknown",
+      "updateTime": "2025-10-03"
+    },
+    {
+      "Full name": "Yaqubjanov Samandar Sherzod o‘g‘li",
+      "Name": "Samandar",
+      "Grade": "9a",
+      "Image": "/students/grade9a/samandar.png",
+      "Gender": "Male",
+      "Birthday": "2010-04-18",
+      "Instagram": "Unknown",
+      "Talked": "Unknown",
+      "updateTime": "2025-10-03"
+    }
+  ]
 }

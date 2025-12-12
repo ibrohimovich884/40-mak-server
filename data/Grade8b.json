@@ -1,244 +1,268 @@
 {
-    "Grade8b": [
-        {
-            "Full name": "Abdullayeva Osiyo Otabek qizi",
-            "Name": "Osiyo",
-            "Grade": "8b",
-            "Image": "",
-            "Gender": "Female",
-            "Birthday": "2011-05-16",
-            "Instagram": "Unknown",
-            "Talked": "Unknown"
-        },
-        {
-            "Full name": "Abdusattorova Sarvinoz Ravshan qizi",
-            "Name": "Sarvinoz",
-            "Grade": "8b",
-            "Image": "",
-            "Gender": "Female",
-            "Birthday": "2011-07-18",
-            "Instagram": "Unknown",
-            "Talked": "Unknown"
-        },
-        {
-            "Full name": "Dexkanova O`g`iloy Alijon qizi",
-            "Name": "O`g`iloy",
-            "Grade": "8b",
-            "Image": "/students/grade8b/ogloy2.jpg",
-            "Gender": "Female",
-            "Birthday": "2011-09-10",
-            "Instagram": "_og1loy_o11_",
-            "Talked": "Unknown"
-        },
-        {
-            "Full name": "Egamberganova Kumushoy Baxodir qizi",
-            "Name": "Kumush",
-            "Grade": "8b",
-            "Image": "/students/grade8b/kumush.jpg",
-            "Gender": "Female",
-            "Birthday": "2011-12-06",
-            "Instagram": "Unknown",
-            "Talked": "Jasur"
-        },
-        {
-            "Full name": "Ergasheva Munisa Ulug'bek qizi",
-            "Name": "Munisa",
-            "Grade": "8b",
-            "Image": "",
-            "Gender": "Female",
-            "Birthday": "2011-05-25",
-            "Instagram": "Unknown",
-            "Talked": "Unknown"
-        },
-        {
-            "Full name": "Gapurova Umida Xayrulla qizi",
-            "Name": "Umida",
-            "Grade": "8b",
-            "Image": "",
-            "Gender": "Female",
-            "Birthday": "2011-06-07",
-            "Instagram": "Unknown",
-            "Talked": "Unknown"
-        },
-        {
-            "Full name": "G'ayratova Samira Murod qizi",
-            "Name": "Samira",
-            "Grade": "8b",
-            "Image": "",
-            "Gender": "Female",
-            "Birthday": "2011-03-25",
-            "Instagram": "Unknown",
-            "Talked": "..."
-        },
-        {
-            "Full name": "Komuljonova Muslima Ag'zamjon qizi",
-            "Name": "Muslima",
-            "Grade": "8b",
-            "Image": "",
-            "Gender": "Female",
-            "Birthday": "2011-01-10",
-            "Instagram": "Unknown",
-            "Talked": "Unknown"
-        },
-        {
-            "Full name": "Mahamatqosimova Robiya Ibrohim qizi",
-            "Name": "Robiya",
-            "Grade": "8b",
-            "Image": "",
-            "Gender": "Female",
-            "Birthday": "Unknown",
-            "Instagram": "Unknown",
-            "Talked": "Unknown"
-        },
-        {
-            "Full name": "Nurillayeva Shoira Davron qizi",
-            "Name": "Shoira",
-            "Grade": "8b",
-            "Image": "",
-            "Gender": "Female",
-            "Birthday": "2011-07-21",
-            "Instagram": "Unknown",
-            "Talked": "Unknown"
-        },
-        {
-            "Full name": "O'razaliyeva Oqila Hikmatilla qizi",
-            "Name": "Oqila",
-            "Grade": "8b",
-            "Image": "",
-            "Gender": "Female",
-            "Birthday": "2011-09-14",
-            "Instagram": "Unknown",
-            "Talked": "Unknown"
-        },
-        {
-            "Full name": "Umarbekova Sevinch Oybek Qizi",
-            "Name": "Sevinch",
-            "Grade": "8b",
-            "Image": "",
-            "Gender": "Female",
-            "Birthday": "2011-11-29",
-            "Instagram": "Unknown",
-            "Talked": "Murod"
-        },
-        {
-            "Full name": "Xudayberdiyeva Dilnoza Xabibulla qizi",
-            "Name": "Dilnoza",
-            "Grade": "8b",
-            "Image": "",
-            "Gender": "Female",
-            "Birthday": "2011-05-25",
-            "Instagram": "Unknown",
-            "Talked": "Unknown"
-        },
-        {
-            "Full name": "Sheraliyeva Shaxhrizoda Sherali qizi",
-            "Name": "Shaxhrizoda",
-            "Grade": "8b",
-            "Image": "",
-            "Gender": "Female",
-            "Birthday": "2011-11-04",
-            "Instagram": "Unknown",
-            "Talked": "Unknown"
-        },
-        {
-            "Full name": "Shokirboyeva Zarnigor Davron qizi",
-            "Name": "Zarnigor",
-            "Grade": "8b",
-            "Image": "/students/grade8b/zarnigor.jpg",
-            "Gender": "Female",
-            "Birthday": "2011-04-25",
-            "Instagram": "_al1werva_o7o_",
-            "Talked": "Unknown"
-        },
-        {
-            "Full name": "Abdullayev Bobomurod Shuxrat o`g`li",
-            "Name": "Bobomurod",
-            "Grade": "8b",
-            "Image": "",
-            "Gender": "Male",
-            "Birthday": "2011-08-29",
-            "Instagram": "Unknown",
-            "Talked": "Unknown"
-        },
-        {
-            "Full name": "Abdusattorov Muhammadyusuf Ulug'bek o'g'li",
-            "Name": "Muhammadyusuf",
-            "Grade": "8b",
-            "Image": "",
-            "Gender": "Male",
-            "Birthday": "2011-09-09",
-            "Instagram": "Unknown",
-            "Talked": "Unknown"
-        },
-        {
-            "Full name": "Adusodiqov Abduazimbek Abdukarim o'g'li",
-            "Name": "Abduazim",
-            "Grade": "8b",
-            "Image": "",
-            "Gender": "Male",
-            "Birthday": "2011-02-09",
-            "Instagram": "Unknown",
-            "Talked": "Unknown"
-        },
-        {
-            "Full name": "Axmedov Jonibek ... o'g'li",
-            "Name": "Joni",
-            "Grade": "8b",
-            "Image": "",
-            "Gender": "Male",
-            "Birthday": "2011-10-27",
-            "Instagram": "Unknown",
-            "Talked": "Unknown"
-        },
-        {
-            "Full name": "Baxronov Bekzod Rahmatulla o'g'li",
-            "Name": "Bekzod",
-            "Grade": "8b",
-            "Image": "",
-            "Gender": "Male",
-            "Birthday": "2011-09-29",
-            "Instagram": "Unknown",
-            "Talked": "Unknown"
-        },
-        {
-            "Full name": "Djo'rayev Ziyodullox Hamid o'g'li",
-            "Name": "Ziyodullox",
-            "Grade": "8b",
-            "Image": "",
-            "Gender": "Male",
-            "Birthday": "2011-07-23",
-            "Instagram": "Unknown",
-            "Talked": "Unknown"
-        },
-        {
-            "Full name": "Parmonov Jasurbek Rahmatillo o'g'li",
-            "Name": "Jasur",
-            "Grade": "8b",
-            "Image": "",
-            "Gender": "Male",
-            "Birthday": "2011-07-26",
-            "Instagram": "Unknown",
-            "Talked": "Unknown"
-        },
-        {
-            "Full name": "Raxmatjonov Salmon Doniyor o'g'li",
-            "Name": "Salmon",
-            "Grade": "8b",
-            "Image": "",
-            "Gender": "Male",
-            "Birthday": "2011-03-01",
-            "Instagram": "Unknown",
-            "Talked": "Unknown"
-        },
-        {
-            "Full name": "Yakubboyev Sherzod Begzod o'g'li",
-            "Name": "Sherzod",
-            "Grade": "8b",
-            "Image": "",
-            "Gender": "Male",
-            "Birthday": "2011-01-18",
-            "Instagram": "6603.sherzod8",
-            "Talked": "Unknown"
-        }
-    ]
+  "Grade8b": [
+    {
+      "Full name": "Abdullayeva Osiyo Otabek qizi",
+      "Name": "Osiyo",
+      "Grade": "8b",
+      "Image": "",
+      "Gender": "Female",
+      "Birthday": "2011-05-16",
+      "Instagram": "Unknown",
+      "Talked": "Unknown",
+      "updateTime": "2025-10-03"
+    },
+    {
+      "Full name": "Abdusattorova Sarvinoz Ravshan qizi",
+      "Name": "Sarvinoz",
+      "Grade": "8b",
+      "Image": "",
+      "Gender": "Female",
+      "Birthday": "2011-07-18",
+      "Instagram": "Unknown",
+      "Talked": "Unknown",
+      "updateTime": "2025-10-03"
+    },
+    {
+      "Full name": "Dexkanova O`g`iloy Alijon qizi",
+      "Name": "O`g`iloy",
+      "Grade": "8b",
+      "Image": "/students/grade8b/ogloy2.jpg",
+      "Gender": "Female",
+      "Birthday": "2011-09-10",
+      "Instagram": "_og1loy_o11_",
+      "Talked": "Unknown",
+      "updateTime": "2025-10-03"
+    },
+    {
+      "Full name": "Egamberganova Kumushoy Baxodir qizi",
+      "Name": "Kumush",
+      "Grade": "8b",
+      "Image": "/students/grade8b/kumush.jpg",
+      "Gender": "Female",
+      "Birthday": "2011-12-06",
+      "Instagram": "Unknown",
+      "Talked": "Jasur",
+      "updateTime": "2025-10-03"
+    },
+    {
+      "Full name": "Ergasheva Munisa Ulug'bek qizi",
+      "Name": "Munisa",
+      "Grade": "8b",
+      "Image": "",
+      "Gender": "Female",
+      "Birthday": "2011-05-25",
+      "Instagram": "Unknown",
+      "Talked": "Unknown",
+      "updateTime": "2025-10-03"
+    },
+    {
+      "Full name": "Gapurova Umida Xayrulla qizi",
+      "Name": "Umida",
+      "Grade": "8b",
+      "Image": "",
+      "Gender": "Female",
+      "Birthday": "2011-06-07",
+      "Instagram": "Unknown",
+      "Talked": "Unknown",
+      "updateTime": "2025-10-03"
+    },
+    {
+      "Full name": "G'ayratova Samira Murod qizi",
+      "Name": "Samira",
+      "Grade": "8b",
+      "Image": "",
+      "Gender": "Female",
+      "Birthday": "2011-03-25",
+      "Instagram": "Unknown",
+      "Talked": "...",
+      "updateTime": "2025-10-03"
+    },
+    {
+      "Full name": "Komuljonova Muslima Ag'zamjon qizi",
+      "Name": "Muslima",
+      "Grade": "8b",
+      "Image": "",
+      "Gender": "Female",
+      "Birthday": "2011-01-10",
+      "Instagram": "Unknown",
+      "Talked": "Unknown",
+      "updateTime": "2025-10-03"
+    },
+    {
+      "Full name": "Mahamatqosimova Robiya Ibrohim qizi",
+      "Name": "Robiya",
+      "Grade": "8b",
+      "Image": "",
+      "Gender": "Female",
+      "Birthday": "Unknown",
+      "Instagram": "Unknown",
+      "Talked": "Unknown",
+      "updateTime": "2025-10-03"
+    },
+    {
+      "Full name": "Nurillayeva Shoira Davron qizi",
+      "Name": "Shoira",
+      "Grade": "8b",
+      "Image": "",
+      "Gender": "Female",
+      "Birthday": "2011-07-21",
+      "Instagram": "Unknown",
+      "Talked": "Unknown",
+      "updateTime": "2025-10-03"
+    },
+    {
+      "Full name": "O'razaliyeva Oqila Hikmatilla qizi",
+      "Name": "Oqila",
+      "Grade": "8b",
+      "Image": "",
+      "Gender": "Female",
+      "Birthday": "2011-09-14",
+      "Instagram": "Unknown",
+      "Talked": "Unknown",
+      "updateTime": "2025-10-03"
+    },
+    {
+      "Full name": "Umarbekova Sevinch Oybek Qizi",
+      "Name": "Sevinch",
+      "Grade": "8b",
+      "Image": "",
+      "Gender": "Female",
+      "Birthday": "2011-11-29",
+      "Instagram": "Unknown",
+      "Talked": "Murod",
+      "updateTime": "2025-10-03"
+    },
+    {
+      "Full name": "Xudayberdiyeva Dilnoza Xabibulla qizi",
+      "Name": "Dilnoza",
+      "Grade": "8b",
+      "Image": "",
+      "Gender": "Female",
+      "Birthday": "2011-05-25",
+      "Instagram": "Unknown",
+      "Talked": "Unknown",
+      "updateTime": "2025-10-03"
+    },
+    {
+      "Full name": "Sheraliyeva Shaxhrizoda Sherali qizi",
+      "Name": "Shaxhrizoda",
+      "Grade": "8b",
+      "Image": "",
+      "Gender": "Female",
+      "Birthday": "2011-11-04",
+      "Instagram": "Unknown",
+      "Talked": "Unknown",
+      "updateTime": "2025-10-03"
+    },
+    {
+      "Full name": "Shokirboyeva Zarnigor Davron qizi",
+      "Name": "Zarnigor",
+      "Grade": "8b",
+      "Image": "/students/grade8b/zarnigor.jpg",
+      "Gender": "Female",
+      "Birthday": "2011-04-25",
+      "Instagram": "_al1werva_o7o_",
+      "Talked": "Unknown",
+      "updateTime": "2025-10-03"
+    },
+    {
+      "Full name": "Abdullayev Bobomurod Shuxrat o`g`li",
+      "Name": "Bobomurod",
+      "Grade": "8b",
+      "Image": "",
+      "Gender": "Male",
+      "Birthday": "2011-08-29",
+      "Instagram": "Unknown",
+      "Talked": "Unknown",
+      "updateTime": "2025-10-03"
+    },
+    {
+      "Full name": "Abdusattorov Muhammadyusuf Ulug'bek o'g'li",
+      "Name": "Muhammadyusuf",
+      "Grade": "8b",
+      "Image": "",
+      "Gender": "Male",
+      "Birthday": "2011-09-09",
+      "Instagram": "Unknown",
+      "Talked": "Unknown",
+      "updateTime": "2025-10-03"
+    },
+    {
+      "Full name": "Adusodiqov Abduazimbek Abdukarim o'g'li",
+      "Name": "Abduazim",
+      "Grade": "8b",
+      "Image": "",
+      "Gender": "Male",
+      "Birthday": "2011-02-09",
+      "Instagram": "Unknown",
+      "Talked": "Unknown",
+      "updateTime": "2025-10-03"
+    },
+    {
+      "Full name": "Axmedov Jonibek ... o'g'li",
+      "Name": "Joni",
+      "Grade": "8b",
+      "Image": "",
+      "Gender": "Male",
+      "Birthday": "2011-10-27",
+      "Instagram": "Unknown",
+      "Talked": "Unknown",
+      "updateTime": "2025-10-03"
+    },
+    {
+      "Full name": "Baxronov Bekzod Rahmatulla o'g'li",
+      "Name": "Bekzod",
+      "Grade": "8b",
+      "Image": "",
+      "Gender": "Male",
+      "Birthday": "2011-09-29",
+      "Instagram": "Unknown",
+      "Talked": "Unknown",
+      "updateTime": "2025-10-03"
+    },
+    {
+      "Full name": "Djo'rayev Ziyodullox Hamid o'g'li",
+      "Name": "Ziyodullox",
+      "Grade": "8b",
+      "Image": "",
+      "Gender": "Male",
+      "Birthday": "2011-07-23",
+      "Instagram": "Unknown",
+      "Talked": "Unknown",
+      "updateTime": "2025-10-03"
+    },
+    {
+      "Full name": "Parmonov Jasurbek Rahmatillo o'g'li",
+      "Name": "Jasur",
+      "Grade": "8b",
+      "Image": "",
+      "Gender": "Male",
+      "Birthday": "2011-07-26",
+      "Instagram": "Unknown",
+      "Talked": "Unknown",
+      "updateTime": "2025-10-03"
+    },
+    {
+      "Full name": "Raxmatjonov Salmon Doniyor o'g'li",
+      "Name": "Salmon",
+      "Grade": "8b",
+      "Image": "",
+      "Gender": "Male",
+      "Birthday": "2011-03-01",
+      "Instagram": "Unknown",
+      "Talked": "Unknown",
+      "updateTime": "2025-10-03"
+    },
+    {
+      "Full name": "Yakubboyev Sherzod Begzod o'g'li",
+      "Name": "Sherzod",
+      "Grade": "8b",
+      "Image": "",
+      "Gender": "Male",
+      "Birthday": "2011-01-18",
+      "Instagram": "6603.sherzod8",
+      "Talked": "Unknown",
+      "updateTime": "2025-10-03"
+    }
+  ]
 }

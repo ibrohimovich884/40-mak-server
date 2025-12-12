@@ -1,264 +1,290 @@
 {
-    "Grade7a": [
-        {
-            "Full name": "Alisherova Ziynat Alisher qizi",
-            "Name": "Ziynat",
-            "Grade": "7a",
-            "Image": "",
-            "Gender": "Female",
-            "Birthday": "2012-07-05",
-            "Instagram": "Unknown",
-            "Talked": "Unknown"
-        },
-        {
-            "Full name": "Batirova Baxoroy Kudrat qizi",
-            "Name": "Baxora",
-            "Grade": "7a",
-            "Image": "",
-            "Gender": "Female",
-            "Birthday": "2012-03-02",
-            "Instagram": "Unknown",
-            "Talked": "Murod, Rizo"
-        },
-        {
-            "Full name": "Ibraximova Muslima Inamjon qizi",
-            "Name": "Muslima",
-            "Grade": "7a",
-            "Image": "",
-            "Gender": "Female",
-            "Birthday": "2012-04-11",
-            "Instagram": "Unknown",
-            "Talked": "Unknown"
-        },
-        {
-            "Full name": "Marupjanova Sevinch Rustamjon qizi",
-            "Name": "Sevinch",
-            "Grade": "7a",
-            "Image": "",
-            "Gender": "Female",
-            "Birthday": "2012-05-16",
-            "Instagram": "Unknown",
-            "Talked": "Unknown"
-        },
-        {
-            "Full name": "Nigmatjanova Nigina Adxam qizi",
-            "Name": "Nigina",
-            "Grade": "7a",
-            "Image": "",
-            "Gender": "Female",
-            "Birthday": "2012-11-20",
-            "Instagram": "Unknown",
-            "Talked": "Unknown"
-        },
-        {
-            "Full name": "Oribjanova Ra'no Kamiljan qizi",
-            "Name": "Ra'no",
-            "Grade": "7a",
-            "Image": "",
-            "Gender": "Female",
-            "Birthday": "2012-08-02",
-            "Instagram": "Unknown",
-            "Talked": "Unknown"
-        },
-        {
-            "Full name": "Sa`dullayeva Gulasal Muxiddin qizi",
-            "Name": "Gulasal",
-            "Grade": "7a",
-            "Image": "",
-            "Gender": "Female",
-            "Birthday": "2012-06-30",
-            "Instagram": "Unknown",
-            "Talked": "Unknown"
-        },
-        {
-            "Full name": "Saidganiyeva Diyora Sadulla qizi",
-            "Name": "Diyora",
-            "Grade": "7a",
-            "Image": "",
-            "Gender": "Female",
-            "Birthday": "2012-08-09",
-            "Instagram": "Unknown",
-            "Talked": "Unknown"
-        },
-        {
-            "Full name": "Sultanova Shahzoda Avaz qizi",
-            "Name": "Shahzoda",
-            "Grade": "7a",
-            "Image": "",
-            "Gender": "Female",
-            "Birthday": "2012-08-12",
-            "Instagram": "Unknown",
-            "Talked": "Unknown"
-        },
-        {
-            "Full name": "Tashpulatova Sabina Shavkat qizi",
-            "Name": "Sabina",
-            "Grade": "7a",
-            "Image": "",
-            "Gender": "Female",
-            "Birthday": "2012-08-28",
-            "Instagram": "Unknown",
-            "Talked": "Unknown"
-        },
-        {
-            "Full name": "Turg'unova Marjona Mansur qizi",
-            "Name": "Marjona",
-            "Grade": "7a",
-            "Image": "",
-            "Gender": "Female",
-            "Birthday": "2012-02-10",
-            "Instagram": "Unknown",
-            "Talked": "Unknown"
-        },
-        {
-            "Full name": "Xasanova Zarina Ravshan qizi",
-            "Name": "Zari",
-            "Grade": "7a",
-            "Image": "",
-            "Gender": "Female",
-            "Birthday": "2012-03-17",
-            "Instagram": "_zar1_na_o7",
-            "Talked": "Avaz"
-        },
-        {
-            "Full name": "Abduaxadov Temurbek Jamol o`g`li",
-            "Name": "Temur",
-            "Grade": "7a",
-            "Image": "",
-            "Gender": "Male",
-            "Birthday": "2012-12-08",
-            "Instagram": "Unknown",
-            "Talked": "Unknown"
-        },
-        {
-            "Full name": "Abdurahmonov Javlonbek Nodirbek o'g'li",
-            "Name": "Javlon",
-            "Grade": "7a",
-            "Image": "",
-            "Gender": "Male",
-            "Birthday": "2012-07-17",
-            "Instagram": "Unknown",
-            "Talked": "Unknown"
-        },
-        {
-            "Full name": "Baxtiyorov Qudratbek Sunnat o `g `li",
-            "Name": "Qudrat",
-            "Grade": "7a",
-            "Image": "",
-            "Gender": "Male",
-            "Birthday": "2012-11-28",
-            "Instagram": "Unknown",
-            "Talked": "Unknown"
-        },
-        {
-            "Full name": "Ergashev Anvarjon G `ulomjon o`g`li",
-            "Name": "Anvarjon",
-            "Grade": "7a",
-            "Image": "",
-            "Gender": "Male",
-            "Birthday": "2012-10-11",
-            "Instagram": "Unknown",
-            "Talked": "Unknown"
-        },
-        {
-            "Full name": "Erkinov Boburbek Qaxramon o`g`li",
-            "Name": "Bobur",
-            "Grade": "7a",
-            "Image": "",
-            "Gender": "Male",
-            "Birthday": "2012-08-29",
-            "Instagram": "Unknown",
-            "Talked": "Unknown"
-        },
-        {
-            "Full name": "Islamov Boburjon Uktam o'g'li",
-            "Name": "Boburjon",
-            "Grade": "7a",
-            "Image": "",
-            "Gender": "Male",
-            "Birthday": "2012-02-20",
-            "Instagram": "Unknown",
-            "Talked": "Unknown"
-        },
-        {
-            "Full name": "Maxammatqosimov Ziyovuddin To'lkin o'g'li",
-            "Name": "Ziyovuddin",
-            "Grade": "7a",
-            "Image": "",
-            "Gender": "Male",
-            "Birthday": "2012-08-04",
-            "Instagram": "Unknown",
-            "Talked": "Unknown"
-        },
-        {
-            "Full name": "O'sarov Muhammadali Murodjon o'g'li",
-            "Name": "Muhammadali",
-            "Grade": "7a",
-            "Image": "",
-            "Gender": "Male",
-            "Birthday": "2012-06-30",
-            "Instagram": "rekman777",
-            "Talked": "Unknown"
-        },
-        {
-            "Full name": "Saidganiyev Xasan Sanjar o'g'li",
-            "Name": "Xasan",
-            "Grade": "7a",
-            "Image": "",
-            "Gender": "Male",
-            "Birthday": "2012-10-05",
-            "Instagram": "Unknown",
-            "Talked": "Unknown"
-        },
-        {
-            "Full name": "Saidganiyev Xusan Sanjar o'g'li",
-            "Name": "Xusan",
-            "Grade": "7a",
-            "Image": "",
-            "Gender": "Male",
-            "Birthday": "2012-10-05",
-            "Instagram": "Unknown",
-            "Talked": "Unknown"
-        },
-        {
-            "Full name": "Sobirjanov Sultonali Botirjan o`g`li",
-            "Name": "Sultonali",
-            "Grade": "7a",
-            "Image": "",
-            "Gender": "Male",
-            "Birthday": "2012-05-01",
-            "Instagram": "Unknown",
-            "Talked": "Unknown"
-        },
-        {
-            "Full name": "Tulkinbayev Bahodir Baxtiyor o'g'li",
-            "Name": "Bahodir",
-            "Grade": "7a",
-            "Image": "",
-            "Gender": "Male",
-            "Birthday": "2012-04-14",
-            "Instagram": "Unknown",
-            "Talked": "Unknown"
-        },
-        {
-            "Full name": "Shermaxamatov Abdulaziz Aziz o'g'li",
-            "Name": "Abdulaziz",
-            "Grade": "7a",
-            "Image": "",
-            "Gender": "Male",
-            "Birthday": "2012-10-14",
-            "Instagram": "Unknown",
-            "Talked": "Unknown"
-        },
-        {
-            "Full name": "Shorobidinov Bexruz Azimjon o `g li",
-            "Name": "Bexruz",
-            "Grade": "7a",
-            "Image": "",
-            "Gender": "Male",
-            "Birthday": "2012-09-15",
-            "Instagram": "Unknown",
-            "Talked": "Unknown"
-        }
-    ]
+  "Grade7a": [
+    {
+      "Full name": "Alisherova Ziynat Alisher qizi",
+      "Name": "Ziynat",
+      "Grade": "7a",
+      "Image": "",
+      "Gender": "Female",
+      "Birthday": "2012-07-05",
+      "Instagram": "Unknown",
+      "Talked": "Unknown",
+      "updateTime": "2025-10-03"
+    },
+    {
+      "Full name": "Batirova Baxoroy Kudrat qizi",
+      "Name": "Baxora",
+      "Grade": "7a",
+      "Image": "",
+      "Gender": "Female",
+      "Birthday": "2012-03-02",
+      "Instagram": "Unknown",
+      "Talked": "Murod, Rizo",
+      "updateTime": "2025-10-03"
+    },
+    {
+      "Full name": "Ibraximova Muslima Inamjon qizi",
+      "Name": "Muslima",
+      "Grade": "7a",
+      "Image": "",
+      "Gender": "Female",
+      "Birthday": "2012-04-11",
+      "Instagram": "Unknown",
+      "Talked": "Unknown",
+      "updateTime": "2025-10-03"
+    },
+    {
+      "Full name": "Marupjanova Sevinch Rustamjon qizi",
+      "Name": "Sevinch",
+      "Grade": "7a",
+      "Image": "",
+      "Gender": "Female",
+      "Birthday": "2012-05-16",
+      "Instagram": "Unknown",
+      "Talked": "Unknown",
+      "updateTime": "2025-10-03"
+    },
+    {
+      "Full name": "Nigmatjanova Nigina Adxam qizi",
+      "Name": "Nigina",
+      "Grade": "7a",
+      "Image": "",
+      "Gender": "Female",
+      "Birthday": "2012-11-20",
+      "Instagram": "Unknown",
+      "Talked": "Unknown",
+      "updateTime": "2025-10-03"
+    },
+    {
+      "Full name": "Oribjanova Ra'no Kamiljan qizi",
+      "Name": "Ra'no",
+      "Grade": "7a",
+      "Image": "",
+      "Gender": "Female",
+      "Birthday": "2012-08-02",
+      "Instagram": "Unknown",
+      "Talked": "Unknown",
+      "updateTime": "2025-10-03"
+    },
+    {
+      "Full name": "Sa`dullayeva Gulasal Muxiddin qizi",
+      "Name": "Gulasal",
+      "Grade": "7a",
+      "Image": "",
+      "Gender": "Female",
+      "Birthday": "2012-06-30",
+      "Instagram": "Unknown",
+      "Talked": "Unknown",
+      "updateTime": "2025-10-03"
+    },
+    {
+      "Full name": "Saidganiyeva Diyora Sadulla qizi",
+      "Name": "Diyora",
+      "Grade": "7a",
+      "Image": "",
+      "Gender": "Female",
+      "Birthday": "2012-08-09",
+      "Instagram": "Unknown",
+      "Talked": "Unknown",
+      "updateTime": "2025-10-03"
+    },
+    {
+      "Full name": "Sultanova Shahzoda Avaz qizi",
+      "Name": "Shahzoda",
+      "Grade": "7a",
+      "Image": "",
+      "Gender": "Female",
+      "Birthday": "2012-08-12",
+      "Instagram": "Unknown",
+      "Talked": "Unknown",
+      "updateTime": "2025-10-03"
+    },
+    {
+      "Full name": "Tashpulatova Sabina Shavkat qizi",
+      "Name": "Sabina",
+      "Grade": "7a",
+      "Image": "",
+      "Gender": "Female",
+      "Birthday": "2012-08-28",
+      "Instagram": "Unknown",
+      "Talked": "Unknown",
+      "updateTime": "2025-10-03"
+    },
+    {
+      "Full name": "Turg'unova Marjona Mansur qizi",
+      "Name": "Marjona",
+      "Grade": "7a",
+      "Image": "",
+      "Gender": "Female",
+      "Birthday": "2012-02-10",
+      "Instagram": "Unknown",
+      "Talked": "Unknown",
+      "updateTime": "2025-10-03"
+    },
+    {
+      "Full name": "Xasanova Zarina Ravshan qizi",
+      "Name": "Zari",
+      "Grade": "7a",
+      "Image": "",
+      "Gender": "Female",
+      "Birthday": "2012-03-17",
+      "Instagram": "_zar1_na_o7",
+      "Talked": "Avaz",
+      "updateTime": "2025-10-03"
+    },
+    {
+      "Full name": "Abduaxadov Temurbek Jamol o`g`li",
+      "Name": "Temur",
+      "Grade": "7a",
+      "Image": "",
+      "Gender": "Male",
+      "Birthday": "2012-12-08",
+      "Instagram": "Unknown",
+      "Talked": "Unknown",
+      "updateTime": "2025-10-03"
+    },
+    {
+      "Full name": "Abdurahmonov Javlonbek Nodirbek o'g'li",
+      "Name": "Javlon",
+      "Grade": "7a",
+      "Image": "",
+      "Gender": "Male",
+      "Birthday": "2012-07-17",
+      "Instagram": "Unknown",
+      "Talked": "Unknown",
+      "updateTime": "2025-10-03"
+    },
+    {
+      "Full name": "Baxtiyorov Qudratbek Sunnat o `g `li",
+      "Name": "Qudrat",
+      "Grade": "7a",
+      "Image": "",
+      "Gender": "Male",
+      "Birthday": "2012-11-28",
+      "Instagram": "Unknown",
+      "Talked": "Unknown",
+      "updateTime": "2025-10-03"
+    },
+    {
+      "Full name": "Ergashev Anvarjon G `ulomjon o`g`li",
+      "Name": "Anvarjon",
+      "Grade": "7a",
+      "Image": "",
+      "Gender": "Male",
+      "Birthday": "2012-10-11",
+      "Instagram": "Unknown",
+      "Talked": "Unknown",
+      "updateTime": "2025-10-03"
+    },
+    {
+      "Full name": "Erkinov Boburbek Qaxramon o`g`li",
+      "Name": "Bobur",
+      "Grade": "7a",
+      "Image": "",
+      "Gender": "Male",
+      "Birthday": "2012-08-29",
+      "Instagram": "Unknown",
+      "Talked": "Unknown",
+      "updateTime": "2025-10-03"
+    },
+    {
+      "Full name": "Islamov Boburjon Uktam o'g'li",
+      "Name": "Boburjon",
+      "Grade": "7a",
+      "Image": "",
+      "Gender": "Male",
+      "Birthday": "2012-02-20",
+      "Instagram": "Unknown",
+      "Talked": "Unknown",
+      "updateTime": "2025-10-03"
+    },
+    {
+      "Full name": "Maxammatqosimov Ziyovuddin To'lkin o'g'li",
+      "Name": "Ziyovuddin",
+      "Grade": "7a",
+      "Image": "",
+      "Gender": "Male",
+      "Birthday": "2012-08-04",
+      "Instagram": "Unknown",
+      "Talked": "Unknown",
+      "updateTime": "2025-10-03"
+    },
+    {
+      "Full name": "O'sarov Muhammadali Murodjon o'g'li",
+      "Name": "Muhammadali",
+      "Grade": "7a",
+      "Image": "",
+      "Gender": "Male",
+      "Birthday": "2012-06-30",
+      "Instagram": "rekman777",
+      "Talked": "Unknown",
+      "updateTime": "2025-10-03"
+    },
+    {
+      "Full name": "Saidganiyev Xasan Sanjar o'g'li",
+      "Name": "Xasan",
+      "Grade": "7a",
+      "Image": "",
+      "Gender": "Male",
+      "Birthday": "2012-10-05",
+      "Instagram": "Unknown",
+      "Talked": "Unknown",
+      "updateTime": "2025-10-03"
+    },
+    {
+      "Full name": "Saidganiyev Xusan Sanjar o'g'li",
+      "Name": "Xusan",
+      "Grade": "7a",
+      "Image": "",
+      "Gender": "Male",
+      "Birthday": "2012-10-05",
+      "Instagram": "Unknown",
+      "Talked": "Unknown",
+      "updateTime": "2025-10-03"
+    },
+    {
+      "Full name": "Sobirjanov Sultonali Botirjan o`g`li",
+      "Name": "Sultonali",
+      "Grade": "7a",
+      "Image": "",
+      "Gender": "Male",
+      "Birthday": "2012-05-01",
+      "Instagram": "Unknown",
+      "Talked": "Unknown",
+      "updateTime": "2025-10-03"
+    },
+    {
+      "Full name": "Tulkinbayev Bahodir Baxtiyor o'g'li",
+      "Name": "Bahodir",
+      "Grade": "7a",
+      "Image": "",
+      "Gender": "Male",
+      "Birthday": "2012-04-14",
+      "Instagram": "Unknown",
+      "Talked": "Unknown",
+      "updateTime": "2025-10-03"
+    },
+    {
+      "Full name": "Shermaxamatov Abdulaziz Aziz o'g'li",
+      "Name": "Abdulaziz",
+      "Grade": "7a",
+      "Image": "",
+      "Gender": "Male",
+      "Birthday": "2012-10-14",
+      "Instagram": "Unknown",
+      "Talked": "Unknown",
+      "updateTime": "2025-10-03"
+    },
+    {
+      "Full name": "Shorobidinov Bexruz Azimjon o `g li",
+      "Name": "Bexruz",
+      "Grade": "7a",
+      "Image": "",
+      "Gender": "Male",
+      "Birthday": "2012-09-15",
+      "Instagram": "Unknown",
+      "Talked": "Unknown",
+      "updateTime": "2025-10-03"
+    }
+  ]
 }
