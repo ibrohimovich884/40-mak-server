@@ -82,7 +82,7 @@
       "Instagram": "Unknown",
       "Talked": "...",
       "updateTime": "2025-10-03",
-      "Status": "Active"
+      "Status": "Inactive"
     },
     {
       "Full name": "Komuljonova Muslima Ag'zamjon qizi",
@@ -142,7 +142,7 @@
       "Instagram": "Unknown",
       "Talked": "Murod",
       "updateTime": "2025-10-03",
-      "Status": "Active"
+      "Status": "Inactive"
     },
     {
       "Full name": "Xudayberdiyeva Dilnoza Xabibulla qizi",
@@ -154,6 +154,18 @@
       "Instagram": "Unknown",
       "Talked": "Unknown",
       "updateTime": "2025-10-03",
+      "Status": "Active"
+    },
+    {
+      "Full name": "Yuldasheva Madinabonu Saidulla qizi",
+      "Name": "Madina",
+      "Grade": "8b",
+      "Image": "",
+      "Gender": "Female",
+      "Birthday": "Unknown",
+      "Instagram": "Unknown",
+      "Talked": "Unknown",
+      "updateTime": "2026-01-29",
       "Status": "Active"
     },
     {
@@ -217,7 +229,7 @@
       "Status": "Active"
     },
     {
-      "Full name": "Axmedov Jonibek ... o'g'li",
+      "Full name": "Axmedov Jonibek",
       "Name": "Joni",
       "Grade": "8b",
       "Image": "",
@@ -253,6 +265,18 @@
       "Status": "Active"
     },
     {
+      "Full name": "Angarbayev Baxtibek Kayrat o'g'li",
+      "Name": "Baxti",
+      "Grade": "8b",
+      "Image": "",
+      "Gender": "Male",
+      "Birthday": "Unknown",
+      "Instagram": "Unknown",
+      "Talked": "Unknown",
+      "updateTime": "2026-01-29",
+      "Status": "Active"
+    },
+    {
       "Full name": "Parmonov Jasurbek Rahmatillo o'g'li",
       "Name": "Jasur",
       "Grade": "8b",
@@ -274,6 +298,18 @@
       "Instagram": "Unknown",
       "Talked": "Unknown",
       "updateTime": "2025-10-03",
+      "Status": "Active"
+    },
+    {
+      "Full name": "Tojiboyev Shaxobiddin Baxodir o'g'li",
+      "Name": "Shaxobiddin",
+      "Grade": "8b",
+      "Image": "",
+      "Gender": "Male",
+      "Birthday": "Unknown",
+      "Instagram": "Unknown",
+      "Talked": "Unknown",
+      "updateTime": "2026-01-29",
       "Status": "Active"
     },
     {

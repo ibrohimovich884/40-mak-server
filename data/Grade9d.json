@@ -106,7 +106,7 @@
       "Instagram": "_albkvnaa_",
       "Talked": "Unknown",
       "updateTime": "2025-10-03",
-      "Status": "Active"
+      "Status": "Inactive"
     },
     {
       "Full name": "Usarova Durdona Murodjon qizi",
@@ -130,7 +130,7 @@
       "Instagram": "Unknown",
       "Talked": "Unknown",
       "updateTime": "2025-10-03",
-      "Status": "Active"
+      "Status": "Inactive"
     },
     {
       "Full name": "Abdullayev Ilyos Ilhomjon o`g`li",
@@ -286,6 +286,18 @@
       "Instagram": "Unknown",
       "Talked": "Unknown",
       "updateTime": "2025-10-03",
+      "Status": "Active"
+    },
+    {
+      "Full name": "Xolbo'tayev Usmonjon Umid o'g'li",
+      "Name": "Ussmon",
+      "Grade": "9d",
+      "Image": "",
+      "Gender": "Male",
+      "Birthday": "Unknown",
+      "Instagram": "Unknown",
+      "Talked": "Moxi, ...",
+      "updateTime": "2026-01-29",
       "Status": "Active"
     }
   ]

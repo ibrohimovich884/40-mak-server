@@ -1,6 +1,18 @@
 {
   "Grade8a": [
     {
+      "Full name": "Axmatjonova Kumushoy Ilhomjon qizi",
+      "Name": "Kumush",
+      "Grade": "8a",
+      "Image": "",
+      "Gender": "Female",
+      "Birthday": "Unknown",
+      "Instagram": "Unknown",
+      "Talked": "Unknown",
+      "updateTime": "2026-01-29",
+      "Status": "Active"
+    },
+    {
       "Full name": "Baxtiyorova Kumush Doniyor qizi",
       "Name": "Kumush",
       "Grade": "8a",
@@ -85,18 +97,6 @@
       "Status": "Active"
     },
     {
-      "Full name": "Usmanova Shaxina Ismoil qizi",
-      "Name": "Shaxina",
-      "Grade": "8a",
-      "Image": "",
-      "Gender": "Female",
-      "Birthday": "2010-08-01",
-      "Instagram": "shahinneemmm__",
-      "Talked": "...",
-      "updateTime": "2025-10-03",
-      "Status": "Active"
-    },
-    {
       "Full name": "Rustamova Nozima Ravshan qizi",
       "Name": "Nozima",
       "Grade": "8a",
@@ -129,6 +129,18 @@
       "Birthday": "2011-06-06",
       "Instagram": "Unknown",
       "Talked": "Unknown",
+      "updateTime": "2025-10-03",
+      "Status": "Active"
+    },
+    {
+      "Full name": "Usmanova Shaxina Ismoil qizi",
+      "Name": "Shaxina",
+      "Grade": "8a",
+      "Image": "",
+      "Gender": "Female",
+      "Birthday": "2010-08-01",
+      "Instagram": "shahinneemmm__",
+      "Talked": "...",
       "updateTime": "2025-10-03",
       "Status": "Active"
     },
@@ -212,8 +224,8 @@
       "Gender": "Male",
       "Birthday": "2011-11-10",
       "Instagram": "Unknown",
-      "Talked": "Unknown",
-      "updateTime": "2025-10-03",
+      "Talked": "Ziyoda, ...",
+      "updateTime": "2026-01-29",
       "Status": "Active"
     },
     {
@@ -274,6 +286,18 @@
       "Instagram": "Unknown",
       "Talked": "Unknown",
       "updateTime": "2025-10-03",
+      "Status": "Active"
+    },
+    {
+      "Full name": "Ongarbayev Nurbol Talgat o'g'li",
+      "Name": "Nurbol",
+      "Grade": "8a",
+      "Image": "",
+      "Gender": "Male",
+      "Birthday": "Unknown",
+      "Instagram": "Unknown",
+      "Talked": "Unknown",
+      "updateTime": "2026-01-29",
       "Status": "Active"
     },
     {
