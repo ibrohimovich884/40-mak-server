@@ -1,0 +1,92 @@
+[
+  {
+    "type": "request",
+    "method": "GET",
+    "url": "/grades/9b",
+    "status": 200,
+    "user": "Anonim",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "date": "Thu, 29 Jan 2026 05:46:55 GMT",
+    "time": "2026-01-29T05:46:55.166Z"
+  },
+  {
+    "type": "request",
+    "method": "GET",
+    "url": "/grades/9b",
+    "status": 304,
+    "user": "Anonim",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "date": "Thu, 29 Jan 2026 05:48:24 GMT",
+    "time": "2026-01-29T05:48:24.984Z"
+  },
+  {
+    "type": "request",
+    "method": "GET",
+    "url": "/grades/9b",
+    "status": 304,
+    "user": "Anonim",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "date": "Thu, 29 Jan 2026 05:48:57 GMT",
+    "time": "2026-01-29T05:48:57.098Z"
+  },
+  {
+    "type": "request",
+    "method": "GET",
+    "url": "/grades/7b",
+    "status": 200,
+    "user": "Anonim",
+    "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36",
+    "date": "Thu, 29 Jan 2026 05:58:28 GMT",
+    "time": "2026-01-29T05:58:28.555Z"
+  },
+  {
+    "type": "request",
+    "method": "GET",
+    "url": "/grades/9b",
+    "status": 304,
+    "user": "Anonim",
+    "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36",
+    "date": "Thu, 29 Jan 2026 06:01:05 GMT",
+    "time": "2026-01-29T06:01:05.871Z"
+  },
+  {
+    "type": "request",
+    "method": "GET",
+    "url": "/grades/9b",
+    "status": 304,
+    "user": "Anonim",
+    "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36",
+    "date": "Thu, 29 Jan 2026 06:02:31 GMT",
+    "time": "2026-01-29T06:02:31.033Z"
+  },
+  {
+    "type": "request",
+    "method": "GET",
+    "url": "/grades/9b",
+    "status": 304,
+    "user": "Anonim",
+    "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36",
+    "date": "Thu, 29 Jan 2026 06:03:19 GMT",
+    "time": "2026-01-29T06:03:19.353Z"
+  },
+  {
+    "type": "request",
+    "method": "GET",
+    "url": "/grades/9b",
+    "status": 200,
+    "user": "Anonim",
+    "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36",
+    "date": "Thu, 29 Jan 2026 06:09:36 GMT",
+    "time": "2026-01-29T06:09:36.928Z"
+  },
+  {
+    "type": "request",
+    "method": "GET",
+    "url": "/grades/9b",
+    "status": 200,
+    "user": "Anonim",
+    "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36",
+    "date": "Thu, 29 Jan 2026 06:16:25 GMT",
+    "time": "2026-01-29T06:16:25.778Z"
+  }
+]
