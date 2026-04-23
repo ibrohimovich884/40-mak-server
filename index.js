@@ -3,6 +3,7 @@ import gradeRoutes from "./routes/gradeRoutes.js";
 import clickerRoutes from "./routes/clickerRoutes.js";
 import hideDataRoutes from "./routes/hideDataRoutes.js";
 import updatePassRoute from "./routes/updatePassRoute.js";
+import allStudentsRoute from "./routes/allStudentsRoute.js";
 import logs from "./routes/logs.js";
 import cors from "cors";
 import morgan from "morgan";
@@ -112,6 +113,7 @@ app.use("/grades", gradeRoutes);
 app.use("/clicker", clickerRoutes);
 app.use("/hideData", hideDataRoutes);
 app.use("/updatePass", updatePassRoute);
+app.use("/all-students", allStudentsRoute);
 app.use("/logs", logs);
 
 app.listen(PORT, () => {
