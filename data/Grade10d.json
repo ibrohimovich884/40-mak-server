@@ -1,9 +1,9 @@
 {
-  "Grade9d": [
+  "Grade10d": [
     {
       "Full name": "Abdullayeva Durdona Abdumalik qizi",
       "Name": "Durdona",
-      "Grade": "9d",
+      "Grade": "10d",
       "Image": "",
       "Gender": "Female",
       "Birthday": "2010-04-17",
@@ -15,7 +15,7 @@
     {
       "Full name": "Almatova Gulnoza Ulug'bek qizi",
       "Name": "Gulnoza",
-      "Grade": "9d",
+      "Grade": "10d",
       "Image": "",
       "Gender": "Female",
       "Birthday": "2010-01-27",
@@ -27,7 +27,7 @@
     {
       "Full name": "Asonova Marjona Pulat qizi",
       "Name": "Marjona",
-      "Grade": "9d",
+      "Grade": "10d",
       "Image": "",
       "Gender": "Female",
       "Birthday": "2010-04-17",
@@ -39,8 +39,8 @@
     {
       "Full name": "Batirova Zarina Kudrat qizi",
       "Name": "Zarina",
-      "Grade": "9d",
-      "Image": "/students/grade9d/zarina.jpg",
+      "Grade": "10d",
+      "Image": "/students/grade10d/zarina.jpg",
       "Gender": "Female",
       "Birthday": "2010-03-11",
       "Instagram": "Unknown",
@@ -51,7 +51,7 @@
     {
       "Full name": "Baxtiyorova Vasila Farxod qizi",
       "Name": "Vasila",
-      "Grade": "9d",
+      "Grade": "10d",
       "Image": "",
       "Gender": "Female",
       "Birthday": "2010-04-15",
@@ -63,7 +63,7 @@
     {
       "Full name": "G'ofurova Maxliyoxon G'ayratjon qizi",
       "Name": "Maxliyo",
-      "Grade": "9d",
+      "Grade": "10d",
       "Image": "",
       "Gender": "Female",
       "Birthday": "2010-01-31",
@@ -75,7 +75,7 @@
     {
       "Full name": "Saidaxmedova Aidaxon Saidakbar qizi",
       "Name": "Aida",
-      "Grade": "9d",
+      "Grade": "10d",
       "Image": "",
       "Gender": "Female",
       "Birthday": "2010-01-08",
@@ -87,7 +87,7 @@
     {
       "Full name": "Turdaliyeva Munira Nurmat qizi",
       "Name": "Munira",
-      "Grade": "9d",
+      "Grade": "10d",
       "Image": "",
       "Gender": "Female",
       "Birthday": "2010-04-25",
@@ -99,8 +99,8 @@
     {
       "Full name": "Urayeva Moxichexra Alibek qizi",
       "Name": "Moxi",
-      "Grade": "9d",
-      "Image": "/students/grade9d/moxi.jpg",
+      "Grade": "10d",
+      "Image": "/students/grade10d/moxi.jpg",
       "Gender": "Female",
       "Birthday": "2010-04-02",
       "Instagram": "_albkvnaa_",
@@ -111,7 +111,7 @@
     {
       "Full name": "Usarova Durdona Murodjon qizi",
       "Name": "Durdona",
-      "Grade": "9d",
+      "Grade": "10d",
       "Image": "",
       "Gender": "Female",
       "Birthday": "2010-09-08",
@@ -123,7 +123,7 @@
     {
       "Full name": "Yuldashova Durdona Kamiljan qizi",
       "Name": "Durdona",
-      "Grade": "9d",
+      "Grade": "10d",
       "Image": "",
       "Gender": "Female",
       "Birthday": "2010-08-07",
@@ -135,7 +135,7 @@
     {
       "Full name": "Abdullayev Ilyos Ilhomjon o`g`li",
       "Name": "Ilyos",
-      "Grade": "9d",
+      "Grade": "10d",
       "Image": "",
       "Gender": "Male",
       "Birthday": "2010-03-28",
@@ -147,7 +147,7 @@
     {
       "Full name": "Botirjonov Kamronbek Sherzod o'g'li",
       "Name": "Kamron",
-      "Grade": "9d",
+      "Grade": "10d",
       "Image": "",
       "Gender": "Male",
       "Birthday": "2010-06-06",
@@ -159,7 +159,7 @@
     {
       "Full name": "Giyazitdinov G'iyosiddin Abdulaziz o'g'li",
       "Name": "G'iyos",
-      "Grade": "9d",
+      "Grade": "10d",
       "Image": "",
       "Gender": "Male",
       "Birthday": "2010-04-27",
@@ -171,7 +171,7 @@
     {
       "Full name": "Karimjonov Behruz Arib o’g’li",
       "Name": "Behruz",
-      "Grade": "9d",
+      "Grade": "10d",
       "Image": "",
       "Gender": "Male",
       "Birthday": "2010-06-20",
@@ -183,7 +183,7 @@
     {
       "Full name": "Madaminov Mo`minjon Akmal o`g`li",
       "Name": "Mo`minjon",
-      "Grade": "9d",
+      "Grade": "10d",
       "Image": "",
       "Gender": "Male",
       "Birthday": "2010-08-15",
@@ -195,7 +195,7 @@
     {
       "Full name": "Muratov Sardorbek Doniyor o’g’li",
       "Name": "Sardor",
-      "Grade": "9d",
+      "Grade": "10d",
       "Image": "",
       "Gender": "Male",
       "Birthday": "2010-03-01",
@@ -207,8 +207,8 @@
     {
       "Full name": "Muratov Sarvarbek Xusan o`g`li",
       "Name": "Sarvar",
-      "Grade": "9d",
-      "Image": "/students/grade9d/sarvar.jpg",
+      "Grade": "10d",
+      "Image": "/students/grade10d/sarvar.jpg",
       "Gender": "Male",
       "Birthday": "2010-12-20",
       "Instagram": "Unknown",
@@ -219,7 +219,7 @@
     {
       "Full name": "Musayev Meyrbek Azizbek o`gli",
       "Name": "Meyrbek",
-      "Grade": "9d",
+      "Grade": "10d",
       "Image": "",
       "Gender": "Male",
       "Birthday": "2010-05-10",
@@ -231,7 +231,7 @@
     {
       "Full name": "Muzaffarov Eldorbek Elmurod o'g'li",
       "Name": "Eldor",
-      "Grade": "9d",
+      "Grade": "10d",
       "Image": "",
       "Gender": "Male",
       "Birthday": "2010-03-04",
@@ -243,8 +243,8 @@
     {
       "Full name": "Nig`matjonov Mohirjon Qobil o`g`li",
       "Name": "Mohir",
-      "Grade": "9d",
-      "Image": "/students/grade9d/mohr.jpg",
+      "Grade": "10d",
+      "Image": "/students/grade10d/mohr.jpg",
       "Gender": "Male",
       "Birthday": "2010-08-13",
       "Instagram": "Unknown",
@@ -255,7 +255,7 @@
     {
       "Full name": "Tug’ilov Zikrillo Abduqahhor o’g’li",
       "Name": "Zikrillo",
-      "Grade": "9d",
+      "Grade": "10d",
       "Image": "",
       "Gender": "Male",
       "Birthday": "2010-07-24",
@@ -267,7 +267,7 @@
     {
       "Full name": "Tursunov Kamronbek Ali ogli",
       "Name": "Kamron",
-      "Grade": "9d",
+      "Grade": "10d",
       "Image": "",
       "Gender": "Male",
       "Birthday": "2010-07-15",
@@ -279,7 +279,7 @@
     {
       "Full name": "Usmonov Faridjon Farrux o`g`li",
       "Name": "Faridjon",
-      "Grade": "9d",
+      "Grade": "10d",
       "Image": "",
       "Gender": "Male",
       "Birthday": "2010-12-19",
@@ -291,7 +291,7 @@
     {
       "Full name": "Xolbo'tayev Usmonjon Umid o'g'li",
       "Name": "Ussmon",
-      "Grade": "9d",
+      "Grade": "10d",
       "Image": "",
       "Gender": "Male",
       "Birthday": "Unknown",
