@@ -2,7 +2,7 @@
 import fs from "fs";
 import path from "path";
 
-const filePath = "./data/Grade7a.json"; 
+const filePath = "./data/Grade8b.json"; 
 
 // --- SOZLAMALAR ---
 const targetKey = "Status";        // 👉 O'zgartirmoqchi bo'lgan kalit nomi (masalan: "status", "category", "updateTime")

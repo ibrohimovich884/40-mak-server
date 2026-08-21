@@ -4,7 +4,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "node idupdate.js",
+    "start": "node reset-active.js",
     "dev": "node --watch index.js"
   },
   "keywords": [],
